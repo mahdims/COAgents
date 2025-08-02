@@ -1,0 +1,1 @@
+**COAgents** is a general multi-agent framework that leverages search history to orchestrate local improvement heuristics via three learned agents—the Node Selection Agent (NSA), the *Move Selection Agent* (MSA), and the *Jump Agent* (JA)—operating over a partial search graph (PSG), which serves as the input to all agents during both training and inference.
