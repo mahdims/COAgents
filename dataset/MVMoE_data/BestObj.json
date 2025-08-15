@@ -1,0 +1,4002 @@
+{
+ "instance_0": {
+  "number_of_vehicles": 16,
+  "cost": 22.1681
+ },
+ "instance_1": {
+  "number_of_vehicles": 17,
+  "cost": 26.77339
+ },
+ "instance_2": {
+  "number_of_vehicles": 17,
+  "cost": 25.74337
+ },
+ "instance_3": {
+  "number_of_vehicles": 16,
+  "cost": 22.49814
+ },
+ "instance_4": {
+  "number_of_vehicles": 17,
+  "cost": 26.7671
+ },
+ "instance_5": {
+  "number_of_vehicles": 17,
+  "cost": 23.63851
+ },
+ "instance_6": {
+  "number_of_vehicles": 14,
+  "cost": 17.95582
+ },
+ "instance_7": {
+  "number_of_vehicles": 20,
+  "cost": 35.32564
+ },
+ "instance_8": {
+  "number_of_vehicles": 15,
+  "cost": 17.91809
+ },
+ "instance_9": {
+  "number_of_vehicles": 19,
+  "cost": 33.70843
+ },
+ "instance_10": {
+  "number_of_vehicles": 16,
+  "cost": 23.80383
+ },
+ "instance_11": {
+  "number_of_vehicles": 16,
+  "cost": 21.75623
+ },
+ "instance_12": {
+  "number_of_vehicles": 15,
+  "cost": 17.00152
+ },
+ "instance_13": {
+  "number_of_vehicles": 15,
+  "cost": 19.13519
+ },
+ "instance_14": {
+  "number_of_vehicles": 16,
+  "cost": 21.17155
+ },
+ "instance_15": {
+  "number_of_vehicles": 18,
+  "cost": 27.98808
+ },
+ "instance_16": {
+  "number_of_vehicles": 16,
+  "cost": 22.80108
+ },
+ "instance_17": {
+  "number_of_vehicles": 18,
+  "cost": 25.8345
+ },
+ "instance_18": {
+  "number_of_vehicles": 19,
+  "cost": 33.40761
+ },
+ "instance_19": {
+  "number_of_vehicles": 17,
+  "cost": 24.73688
+ },
+ "instance_20": {
+  "number_of_vehicles": 18,
+  "cost": 29.43177
+ },
+ "instance_21": {
+  "number_of_vehicles": 17,
+  "cost": 24.53164
+ },
+ "instance_22": {
+  "number_of_vehicles": 15,
+  "cost": 20.3346
+ },
+ "instance_23": {
+  "number_of_vehicles": 17,
+  "cost": 28.95046
+ },
+ "instance_24": {
+  "number_of_vehicles": 17,
+  "cost": 24.98258
+ },
+ "instance_25": {
+  "number_of_vehicles": 18,
+  "cost": 27.06374
+ },
+ "instance_26": {
+  "number_of_vehicles": 18,
+  "cost": 30.46383
+ },
+ "instance_27": {
+  "number_of_vehicles": 15,
+  "cost": 20.3211
+ },
+ "instance_28": {
+  "number_of_vehicles": 15,
+  "cost": 20.92878
+ },
+ "instance_29": {
+  "number_of_vehicles": 17,
+  "cost": 25.14416
+ },
+ "instance_30": {
+  "number_of_vehicles": 17,
+  "cost": 26.38721
+ },
+ "instance_31": {
+  "number_of_vehicles": 15,
+  "cost": 20.26326
+ },
+ "instance_32": {
+  "number_of_vehicles": 17,
+  "cost": 24.90323
+ },
+ "instance_33": {
+  "number_of_vehicles": 15,
+  "cost": 18.51048
+ },
+ "instance_34": {
+  "number_of_vehicles": 15,
+  "cost": 18.53569
+ },
+ "instance_35": {
+  "number_of_vehicles": 16,
+  "cost": 25.32825
+ },
+ "instance_36": {
+  "number_of_vehicles": 15,
+  "cost": 18.98782
+ },
+ "instance_37": {
+  "number_of_vehicles": 15,
+  "cost": 17.63822
+ },
+ "instance_38": {
+  "number_of_vehicles": 15,
+  "cost": 19.54814
+ },
+ "instance_39": {
+  "number_of_vehicles": 17,
+  "cost": 26.45395
+ },
+ "instance_40": {
+  "number_of_vehicles": 17,
+  "cost": 25.20708
+ },
+ "instance_41": {
+  "number_of_vehicles": 19,
+  "cost": 30.38996
+ },
+ "instance_42": {
+  "number_of_vehicles": 18,
+  "cost": 27.37565
+ },
+ "instance_43": {
+  "number_of_vehicles": 17,
+  "cost": 22.98101
+ },
+ "instance_44": {
+  "number_of_vehicles": 17,
+  "cost": 24.43582
+ },
+ "instance_45": {
+  "number_of_vehicles": 15,
+  "cost": 18.77112
+ },
+ "instance_46": {
+  "number_of_vehicles": 16,
+  "cost": 24.62859
+ },
+ "instance_47": {
+  "number_of_vehicles": 15,
+  "cost": 20.24177
+ },
+ "instance_48": {
+  "number_of_vehicles": 15,
+  "cost": 19.02987
+ },
+ "instance_49": {
+  "number_of_vehicles": 16,
+  "cost": 20.03096
+ },
+ "instance_50": {
+  "number_of_vehicles": 17,
+  "cost": 25.67653
+ },
+ "instance_51": {
+  "number_of_vehicles": 16,
+  "cost": 21.64869
+ },
+ "instance_52": {
+  "number_of_vehicles": 19,
+  "cost": 32.99761
+ },
+ "instance_53": {
+  "number_of_vehicles": 17,
+  "cost": 27.85014
+ },
+ "instance_54": {
+  "number_of_vehicles": 16,
+  "cost": 18.38114
+ },
+ "instance_55": {
+  "number_of_vehicles": 18,
+  "cost": 30.68463
+ },
+ "instance_56": {
+  "number_of_vehicles": 17,
+  "cost": 24.26795
+ },
+ "instance_57": {
+  "number_of_vehicles": 20,
+  "cost": 36.59534
+ },
+ "instance_58": {
+  "number_of_vehicles": 17,
+  "cost": 25.43618
+ },
+ "instance_59": {
+  "number_of_vehicles": 18,
+  "cost": 27.57528
+ },
+ "instance_60": {
+  "number_of_vehicles": 15,
+  "cost": 20.33839
+ },
+ "instance_61": {
+  "number_of_vehicles": 16,
+  "cost": 23.6822
+ },
+ "instance_62": {
+  "number_of_vehicles": 17,
+  "cost": 25.69675
+ },
+ "instance_63": {
+  "number_of_vehicles": 18,
+  "cost": 26.53901
+ },
+ "instance_64": {
+  "number_of_vehicles": 19,
+  "cost": 31.27457
+ },
+ "instance_65": {
+  "number_of_vehicles": 20,
+  "cost": 35.59331
+ },
+ "instance_66": {
+  "number_of_vehicles": 14,
+  "cost": 18.58767
+ },
+ "instance_67": {
+  "number_of_vehicles": 14,
+  "cost": 17.84598
+ },
+ "instance_68": {
+  "number_of_vehicles": 18,
+  "cost": 29.92668
+ },
+ "instance_69": {
+  "number_of_vehicles": 21,
+  "cost": 39.17095
+ },
+ "instance_70": {
+  "number_of_vehicles": 15,
+  "cost": 19.05451
+ },
+ "instance_71": {
+  "number_of_vehicles": 16,
+  "cost": 20.41985
+ },
+ "instance_72": {
+  "number_of_vehicles": 17,
+  "cost": 25.21761
+ },
+ "instance_73": {
+  "number_of_vehicles": 16,
+  "cost": 19.47569
+ },
+ "instance_74": {
+  "number_of_vehicles": 15,
+  "cost": 18.26443
+ },
+ "instance_75": {
+  "number_of_vehicles": 17,
+  "cost": 24.53951
+ },
+ "instance_76": {
+  "number_of_vehicles": 19,
+  "cost": 32.1204
+ },
+ "instance_77": {
+  "number_of_vehicles": 15,
+  "cost": 18.93331
+ },
+ "instance_78": {
+  "number_of_vehicles": 16,
+  "cost": 22.07677
+ },
+ "instance_79": {
+  "number_of_vehicles": 20,
+  "cost": 35.18933
+ },
+ "instance_80": {
+  "number_of_vehicles": 15,
+  "cost": 19.09462
+ },
+ "instance_81": {
+  "number_of_vehicles": 15,
+  "cost": 20.35729
+ },
+ "instance_82": {
+  "number_of_vehicles": 18,
+  "cost": 30.40178
+ },
+ "instance_83": {
+  "number_of_vehicles": 15,
+  "cost": 17.68354
+ },
+ "instance_84": {
+  "number_of_vehicles": 15,
+  "cost": 21.36745
+ },
+ "instance_85": {
+  "number_of_vehicles": 14,
+  "cost": 17.0108
+ },
+ "instance_86": {
+  "number_of_vehicles": 17,
+  "cost": 25.36428
+ },
+ "instance_87": {
+  "number_of_vehicles": 21,
+  "cost": 40.36415
+ },
+ "instance_88": {
+  "number_of_vehicles": 20,
+  "cost": 32.41933
+ },
+ "instance_89": {
+  "number_of_vehicles": 17,
+  "cost": 23.47414
+ },
+ "instance_90": {
+  "number_of_vehicles": 17,
+  "cost": 27.94097
+ },
+ "instance_91": {
+  "number_of_vehicles": 15,
+  "cost": 17.96905
+ },
+ "instance_92": {
+  "number_of_vehicles": 17,
+  "cost": 26.87779
+ },
+ "instance_93": {
+  "number_of_vehicles": 17,
+  "cost": 25.74319
+ },
+ "instance_94": {
+  "number_of_vehicles": 17,
+  "cost": 27.1528
+ },
+ "instance_95": {
+  "number_of_vehicles": 19,
+  "cost": 30.35881
+ },
+ "instance_96": {
+  "number_of_vehicles": 16,
+  "cost": 21.47058
+ },
+ "instance_97": {
+  "number_of_vehicles": 15,
+  "cost": 18.3585
+ },
+ "instance_98": {
+  "number_of_vehicles": 17,
+  "cost": 27.36138
+ },
+ "instance_99": {
+  "number_of_vehicles": 16,
+  "cost": 21.64693
+ },
+ "instance_100": {
+  "number_of_vehicles": 17,
+  "cost": 25.07213
+ },
+ "instance_101": {
+  "number_of_vehicles": 16,
+  "cost": 21.36603
+ },
+ "instance_102": {
+  "number_of_vehicles": 14,
+  "cost": 17.9989
+ },
+ "instance_103": {
+  "number_of_vehicles": 15,
+  "cost": 18.68356
+ },
+ "instance_104": {
+  "number_of_vehicles": 14,
+  "cost": 17.79236
+ },
+ "instance_105": {
+  "number_of_vehicles": 16,
+  "cost": 24.01874
+ },
+ "instance_106": {
+  "number_of_vehicles": 17,
+  "cost": 24.40735
+ },
+ "instance_107": {
+  "number_of_vehicles": 16,
+  "cost": 24.50095
+ },
+ "instance_108": {
+  "number_of_vehicles": 18,
+  "cost": 28.57798
+ },
+ "instance_109": {
+  "number_of_vehicles": 20,
+  "cost": 35.48741
+ },
+ "instance_110": {
+  "number_of_vehicles": 20,
+  "cost": 34.66797
+ },
+ "instance_111": {
+  "number_of_vehicles": 15,
+  "cost": 19.64294
+ },
+ "instance_112": {
+  "number_of_vehicles": 17,
+  "cost": 25.95007
+ },
+ "instance_113": {
+  "number_of_vehicles": 17,
+  "cost": 26.52713
+ },
+ "instance_114": {
+  "number_of_vehicles": 14,
+  "cost": 15.99406
+ },
+ "instance_115": {
+  "number_of_vehicles": 16,
+  "cost": 21.01645
+ },
+ "instance_116": {
+  "number_of_vehicles": 16,
+  "cost": 24.03104
+ },
+ "instance_117": {
+  "number_of_vehicles": 15,
+  "cost": 18.71594
+ },
+ "instance_118": {
+  "number_of_vehicles": 17,
+  "cost": 25.6809
+ },
+ "instance_119": {
+  "number_of_vehicles": 16,
+  "cost": 19.80958
+ },
+ "instance_120": {
+  "number_of_vehicles": 14,
+  "cost": 17.90152
+ },
+ "instance_121": {
+  "number_of_vehicles": 15,
+  "cost": 18.02511
+ },
+ "instance_122": {
+  "number_of_vehicles": 15,
+  "cost": 21.92553
+ },
+ "instance_123": {
+  "number_of_vehicles": 15,
+  "cost": 19.99155
+ },
+ "instance_124": {
+  "number_of_vehicles": 15,
+  "cost": 22.25097
+ },
+ "instance_125": {
+  "number_of_vehicles": 16,
+  "cost": 18.60194
+ },
+ "instance_126": {
+  "number_of_vehicles": 15,
+  "cost": 22.00811
+ },
+ "instance_127": {
+  "number_of_vehicles": 15,
+  "cost": 19.3218
+ },
+ "instance_128": {
+  "number_of_vehicles": 17,
+  "cost": 25.3784
+ },
+ "instance_129": {
+  "number_of_vehicles": 16,
+  "cost": 25.36043
+ },
+ "instance_130": {
+  "number_of_vehicles": 16,
+  "cost": 22.26912
+ },
+ "instance_131": {
+  "number_of_vehicles": 16,
+  "cost": 21.1397
+ },
+ "instance_132": {
+  "number_of_vehicles": 16,
+  "cost": 23.66309
+ },
+ "instance_133": {
+  "number_of_vehicles": 21,
+  "cost": 37.95285
+ },
+ "instance_134": {
+  "number_of_vehicles": 17,
+  "cost": 27.25797
+ },
+ "instance_135": {
+  "number_of_vehicles": 18,
+  "cost": 28.16553
+ },
+ "instance_136": {
+  "number_of_vehicles": 15,
+  "cost": 19.75342
+ },
+ "instance_137": {
+  "number_of_vehicles": 16,
+  "cost": 20.32007
+ },
+ "instance_138": {
+  "number_of_vehicles": 16,
+  "cost": 21.12855
+ },
+ "instance_139": {
+  "number_of_vehicles": 19,
+  "cost": 28.43375
+ },
+ "instance_140": {
+  "number_of_vehicles": 17,
+  "cost": 24.94875
+ },
+ "instance_141": {
+  "number_of_vehicles": 15,
+  "cost": 19.25115
+ },
+ "instance_142": {
+  "number_of_vehicles": 17,
+  "cost": 23.4249
+ },
+ "instance_143": {
+  "number_of_vehicles": 17,
+  "cost": 26.01572
+ },
+ "instance_144": {
+  "number_of_vehicles": 16,
+  "cost": 25.56854
+ },
+ "instance_145": {
+  "number_of_vehicles": 16,
+  "cost": 22.95596
+ },
+ "instance_146": {
+  "number_of_vehicles": 19,
+  "cost": 34.9819
+ },
+ "instance_147": {
+  "number_of_vehicles": 16,
+  "cost": 20.94923
+ },
+ "instance_148": {
+  "number_of_vehicles": 17,
+  "cost": 24.22377
+ },
+ "instance_149": {
+  "number_of_vehicles": 17,
+  "cost": 26.18168
+ },
+ "instance_150": {
+  "number_of_vehicles": 19,
+  "cost": 32.62864
+ },
+ "instance_151": {
+  "number_of_vehicles": 15,
+  "cost": 18.76414
+ },
+ "instance_152": {
+  "number_of_vehicles": 15,
+  "cost": 19.59432
+ },
+ "instance_153": {
+  "number_of_vehicles": 15,
+  "cost": 18.88486
+ },
+ "instance_154": {
+  "number_of_vehicles": 18,
+  "cost": 29.89461
+ },
+ "instance_155": {
+  "number_of_vehicles": 18,
+  "cost": 29.79209
+ },
+ "instance_156": {
+  "number_of_vehicles": 15,
+  "cost": 17.0115
+ },
+ "instance_157": {
+  "number_of_vehicles": 22,
+  "cost": 41.7076
+ },
+ "instance_158": {
+  "number_of_vehicles": 15,
+  "cost": 21.05696
+ },
+ "instance_159": {
+  "number_of_vehicles": 21,
+  "cost": 39.65778
+ },
+ "instance_160": {
+  "number_of_vehicles": 20,
+  "cost": 35.43333
+ },
+ "instance_161": {
+  "number_of_vehicles": 15,
+  "cost": 17.06087
+ },
+ "instance_162": {
+  "number_of_vehicles": 17,
+  "cost": 26.62569
+ },
+ "instance_163": {
+  "number_of_vehicles": 15,
+  "cost": 20.17727
+ },
+ "instance_164": {
+  "number_of_vehicles": 15,
+  "cost": 19.32546
+ },
+ "instance_165": {
+  "number_of_vehicles": 17,
+  "cost": 21.78445
+ },
+ "instance_166": {
+  "number_of_vehicles": 18,
+  "cost": 29.44266
+ },
+ "instance_167": {
+  "number_of_vehicles": 23,
+  "cost": 46.07696
+ },
+ "instance_168": {
+  "number_of_vehicles": 16,
+  "cost": 18.89161
+ },
+ "instance_169": {
+  "number_of_vehicles": 17,
+  "cost": 26.32911
+ },
+ "instance_170": {
+  "number_of_vehicles": 21,
+  "cost": 36.83815
+ },
+ "instance_171": {
+  "number_of_vehicles": 14,
+  "cost": 17.60785
+ },
+ "instance_172": {
+  "number_of_vehicles": 17,
+  "cost": 23.8481
+ },
+ "instance_173": {
+  "number_of_vehicles": 15,
+  "cost": 17.48617
+ },
+ "instance_174": {
+  "number_of_vehicles": 17,
+  "cost": 24.53493
+ },
+ "instance_175": {
+  "number_of_vehicles": 16,
+  "cost": 24.4974
+ },
+ "instance_176": {
+  "number_of_vehicles": 17,
+  "cost": 23.24038
+ },
+ "instance_177": {
+  "number_of_vehicles": 16,
+  "cost": 24.4063
+ },
+ "instance_178": {
+  "number_of_vehicles": 19,
+  "cost": 33.45196
+ },
+ "instance_179": {
+  "number_of_vehicles": 17,
+  "cost": 28.2846
+ },
+ "instance_180": {
+  "number_of_vehicles": 21,
+  "cost": 40.62872
+ },
+ "instance_181": {
+  "number_of_vehicles": 14,
+  "cost": 17.99985
+ },
+ "instance_182": {
+  "number_of_vehicles": 17,
+  "cost": 29.30922
+ },
+ "instance_183": {
+  "number_of_vehicles": 16,
+  "cost": 20.75495
+ },
+ "instance_184": {
+  "number_of_vehicles": 19,
+  "cost": 29.89201
+ },
+ "instance_185": {
+  "number_of_vehicles": 15,
+  "cost": 20.11748
+ },
+ "instance_186": {
+  "number_of_vehicles": 18,
+  "cost": 31.32265
+ },
+ "instance_187": {
+  "number_of_vehicles": 18,
+  "cost": 29.30508
+ },
+ "instance_188": {
+  "number_of_vehicles": 17,
+  "cost": 24.5896
+ },
+ "instance_189": {
+  "number_of_vehicles": 18,
+  "cost": 29.77165
+ },
+ "instance_190": {
+  "number_of_vehicles": 16,
+  "cost": 23.79128
+ },
+ "instance_191": {
+  "number_of_vehicles": 15,
+  "cost": 21.05818
+ },
+ "instance_192": {
+  "number_of_vehicles": 17,
+  "cost": 25.15139
+ },
+ "instance_193": {
+  "number_of_vehicles": 17,
+  "cost": 28.84129
+ },
+ "instance_194": {
+  "number_of_vehicles": 18,
+  "cost": 27.79129
+ },
+ "instance_195": {
+  "number_of_vehicles": 19,
+  "cost": 32.0162
+ },
+ "instance_196": {
+  "number_of_vehicles": 18,
+  "cost": 26.96333
+ },
+ "instance_197": {
+  "number_of_vehicles": 15,
+  "cost": 19.90742
+ },
+ "instance_198": {
+  "number_of_vehicles": 15,
+  "cost": 19.3812
+ },
+ "instance_199": {
+  "number_of_vehicles": 15,
+  "cost": 22.13081
+ },
+ "instance_200": {
+  "number_of_vehicles": 18,
+  "cost": 26.48143
+ },
+ "instance_201": {
+  "number_of_vehicles": 15,
+  "cost": 19.71866
+ },
+ "instance_202": {
+  "number_of_vehicles": 15,
+  "cost": 18.62377
+ },
+ "instance_203": {
+  "number_of_vehicles": 16,
+  "cost": 24.26441
+ },
+ "instance_204": {
+  "number_of_vehicles": 17,
+  "cost": 26.76498
+ },
+ "instance_205": {
+  "number_of_vehicles": 18,
+  "cost": 27.56621
+ },
+ "instance_206": {
+  "number_of_vehicles": 16,
+  "cost": 21.28805
+ },
+ "instance_207": {
+  "number_of_vehicles": 17,
+  "cost": 26.72781
+ },
+ "instance_208": {
+  "number_of_vehicles": 17,
+  "cost": 28.6102
+ },
+ "instance_209": {
+  "number_of_vehicles": 18,
+  "cost": 30.58429
+ },
+ "instance_210": {
+  "number_of_vehicles": 15,
+  "cost": 18.95361
+ },
+ "instance_211": {
+  "number_of_vehicles": 15,
+  "cost": 19.61657
+ },
+ "instance_212": {
+  "number_of_vehicles": 15,
+  "cost": 17.79576
+ },
+ "instance_213": {
+  "number_of_vehicles": 17,
+  "cost": 25.43123
+ },
+ "instance_214": {
+  "number_of_vehicles": 17,
+  "cost": 23.7939
+ },
+ "instance_215": {
+  "number_of_vehicles": 15,
+  "cost": 19.8864
+ },
+ "instance_216": {
+  "number_of_vehicles": 16,
+  "cost": 22.22719
+ },
+ "instance_217": {
+  "number_of_vehicles": 17,
+  "cost": 24.43714
+ },
+ "instance_218": {
+  "number_of_vehicles": 18,
+  "cost": 28.56412
+ },
+ "instance_219": {
+  "number_of_vehicles": 16,
+  "cost": 26.42693
+ },
+ "instance_220": {
+  "number_of_vehicles": 16,
+  "cost": 23.44258
+ },
+ "instance_221": {
+  "number_of_vehicles": 15,
+  "cost": 19.53816
+ },
+ "instance_222": {
+  "number_of_vehicles": 21,
+  "cost": 37.94204
+ },
+ "instance_223": {
+  "number_of_vehicles": 17,
+  "cost": 26.82328
+ },
+ "instance_224": {
+  "number_of_vehicles": 21,
+  "cost": 38.73584
+ },
+ "instance_225": {
+  "number_of_vehicles": 16,
+  "cost": 25.26401
+ },
+ "instance_226": {
+  "number_of_vehicles": 16,
+  "cost": 22.05541
+ },
+ "instance_227": {
+  "number_of_vehicles": 16,
+  "cost": 21.32583
+ },
+ "instance_228": {
+  "number_of_vehicles": 16,
+  "cost": 21.48853
+ },
+ "instance_229": {
+  "number_of_vehicles": 16,
+  "cost": 20.77458
+ },
+ "instance_230": {
+  "number_of_vehicles": 16,
+  "cost": 20.97926
+ },
+ "instance_231": {
+  "number_of_vehicles": 17,
+  "cost": 26.24796
+ },
+ "instance_232": {
+  "number_of_vehicles": 15,
+  "cost": 18.25489
+ },
+ "instance_233": {
+  "number_of_vehicles": 15,
+  "cost": 20.87116
+ },
+ "instance_234": {
+  "number_of_vehicles": 16,
+  "cost": 23.2275
+ },
+ "instance_235": {
+  "number_of_vehicles": 16,
+  "cost": 23.62354
+ },
+ "instance_236": {
+  "number_of_vehicles": 15,
+  "cost": 19.77768
+ },
+ "instance_237": {
+  "number_of_vehicles": 17,
+  "cost": 23.68718
+ },
+ "instance_238": {
+  "number_of_vehicles": 17,
+  "cost": 26.71171
+ },
+ "instance_239": {
+  "number_of_vehicles": 16,
+  "cost": 20.99617
+ },
+ "instance_240": {
+  "number_of_vehicles": 16,
+  "cost": 23.18389
+ },
+ "instance_241": {
+  "number_of_vehicles": 17,
+  "cost": 26.50397
+ },
+ "instance_242": {
+  "number_of_vehicles": 15,
+  "cost": 19.3217
+ },
+ "instance_243": {
+  "number_of_vehicles": 19,
+  "cost": 33.16438
+ },
+ "instance_244": {
+  "number_of_vehicles": 15,
+  "cost": 20.68315
+ },
+ "instance_245": {
+  "number_of_vehicles": 19,
+  "cost": 31.09542
+ },
+ "instance_246": {
+  "number_of_vehicles": 21,
+  "cost": 37.96326
+ },
+ "instance_247": {
+  "number_of_vehicles": 14,
+  "cost": 17.14609
+ },
+ "instance_248": {
+  "number_of_vehicles": 16,
+  "cost": 19.83514
+ },
+ "instance_249": {
+  "number_of_vehicles": 17,
+  "cost": 24.63231
+ },
+ "instance_250": {
+  "number_of_vehicles": 16,
+  "cost": 22.66747
+ },
+ "instance_251": {
+  "number_of_vehicles": 19,
+  "cost": 32.4408
+ },
+ "instance_252": {
+  "number_of_vehicles": 15,
+  "cost": 18.91218
+ },
+ "instance_253": {
+  "number_of_vehicles": 14,
+  "cost": 17.2436
+ },
+ "instance_254": {
+  "number_of_vehicles": 14,
+  "cost": 17.06955
+ },
+ "instance_255": {
+  "number_of_vehicles": 16,
+  "cost": 24.68575
+ },
+ "instance_256": {
+  "number_of_vehicles": 19,
+  "cost": 31.70843
+ },
+ "instance_257": {
+  "number_of_vehicles": 16,
+  "cost": 17.91007
+ },
+ "instance_258": {
+  "number_of_vehicles": 16,
+  "cost": 22.6253
+ },
+ "instance_259": {
+  "number_of_vehicles": 18,
+  "cost": 30.59322
+ },
+ "instance_260": {
+  "number_of_vehicles": 19,
+  "cost": 31.72993
+ },
+ "instance_261": {
+  "number_of_vehicles": 18,
+  "cost": 27.04347
+ },
+ "instance_262": {
+  "number_of_vehicles": 16,
+  "cost": 23.11336
+ },
+ "instance_263": {
+  "number_of_vehicles": 20,
+  "cost": 32.57297
+ },
+ "instance_264": {
+  "number_of_vehicles": 15,
+  "cost": 21.27155
+ },
+ "instance_265": {
+  "number_of_vehicles": 14,
+  "cost": 17.52155
+ },
+ "instance_266": {
+  "number_of_vehicles": 16,
+  "cost": 20.11172
+ },
+ "instance_267": {
+  "number_of_vehicles": 14,
+  "cost": 16.77518
+ },
+ "instance_268": {
+  "number_of_vehicles": 15,
+  "cost": 20.99194
+ },
+ "instance_269": {
+  "number_of_vehicles": 16,
+  "cost": 21.91
+ },
+ "instance_270": {
+  "number_of_vehicles": 16,
+  "cost": 18.78759
+ },
+ "instance_271": {
+  "number_of_vehicles": 15,
+  "cost": 21.41628
+ },
+ "instance_272": {
+  "number_of_vehicles": 17,
+  "cost": 24.75269
+ },
+ "instance_273": {
+  "number_of_vehicles": 17,
+  "cost": 23.86656
+ },
+ "instance_274": {
+  "number_of_vehicles": 18,
+  "cost": 28.92053
+ },
+ "instance_275": {
+  "number_of_vehicles": 17,
+  "cost": 26.96682
+ },
+ "instance_276": {
+  "number_of_vehicles": 16,
+  "cost": 22.74224
+ },
+ "instance_277": {
+  "number_of_vehicles": 18,
+  "cost": 27.62075
+ },
+ "instance_278": {
+  "number_of_vehicles": 15,
+  "cost": 18.14315
+ },
+ "instance_279": {
+  "number_of_vehicles": 17,
+  "cost": 25.17258
+ },
+ "instance_280": {
+  "number_of_vehicles": 16,
+  "cost": 23.13037
+ },
+ "instance_281": {
+  "number_of_vehicles": 18,
+  "cost": 30.6009
+ },
+ "instance_282": {
+  "number_of_vehicles": 18,
+  "cost": 29.43853
+ },
+ "instance_283": {
+  "number_of_vehicles": 15,
+  "cost": 18.38341
+ },
+ "instance_284": {
+  "number_of_vehicles": 16,
+  "cost": 22.63215
+ },
+ "instance_285": {
+  "number_of_vehicles": 15,
+  "cost": 17.9621
+ },
+ "instance_286": {
+  "number_of_vehicles": 16,
+  "cost": 22.523
+ },
+ "instance_287": {
+  "number_of_vehicles": 16,
+  "cost": 23.10789
+ },
+ "instance_288": {
+  "number_of_vehicles": 17,
+  "cost": 22.66752
+ },
+ "instance_289": {
+  "number_of_vehicles": 15,
+  "cost": 18.9693
+ },
+ "instance_290": {
+  "number_of_vehicles": 20,
+  "cost": 35.86792
+ },
+ "instance_291": {
+  "number_of_vehicles": 19,
+  "cost": 31.26144
+ },
+ "instance_292": {
+  "number_of_vehicles": 14,
+  "cost": 17.18333
+ },
+ "instance_293": {
+  "number_of_vehicles": 17,
+  "cost": 25.24522
+ },
+ "instance_294": {
+  "number_of_vehicles": 16,
+  "cost": 23.60028
+ },
+ "instance_295": {
+  "number_of_vehicles": 19,
+  "cost": 33.11116
+ },
+ "instance_296": {
+  "number_of_vehicles": 18,
+  "cost": 27.42662
+ },
+ "instance_297": {
+  "number_of_vehicles": 16,
+  "cost": 23.8097
+ },
+ "instance_298": {
+  "number_of_vehicles": 16,
+  "cost": 22.53457
+ },
+ "instance_299": {
+  "number_of_vehicles": 14,
+  "cost": 17.99927
+ },
+ "instance_300": {
+  "number_of_vehicles": 15,
+  "cost": 18.85053
+ },
+ "instance_301": {
+  "number_of_vehicles": 15,
+  "cost": 21.13723
+ },
+ "instance_302": {
+  "number_of_vehicles": 16,
+  "cost": 18.86461
+ },
+ "instance_303": {
+  "number_of_vehicles": 16,
+  "cost": 21.10629
+ },
+ "instance_304": {
+  "number_of_vehicles": 16,
+  "cost": 23.73021
+ },
+ "instance_305": {
+  "number_of_vehicles": 17,
+  "cost": 23.93654
+ },
+ "instance_306": {
+  "number_of_vehicles": 15,
+  "cost": 20.39333
+ },
+ "instance_307": {
+  "number_of_vehicles": 17,
+  "cost": 25.91804
+ },
+ "instance_308": {
+  "number_of_vehicles": 16,
+  "cost": 23.28488
+ },
+ "instance_309": {
+  "number_of_vehicles": 17,
+  "cost": 28.72136
+ },
+ "instance_310": {
+  "number_of_vehicles": 17,
+  "cost": 24.16713
+ },
+ "instance_311": {
+  "number_of_vehicles": 17,
+  "cost": 25.52509
+ },
+ "instance_312": {
+  "number_of_vehicles": 15,
+  "cost": 18.55868
+ },
+ "instance_313": {
+  "number_of_vehicles": 17,
+  "cost": 24.90553
+ },
+ "instance_314": {
+  "number_of_vehicles": 23,
+  "cost": 42.86289
+ },
+ "instance_315": {
+  "number_of_vehicles": 17,
+  "cost": 26.26373
+ },
+ "instance_316": {
+  "number_of_vehicles": 15,
+  "cost": 19.49388
+ },
+ "instance_317": {
+  "number_of_vehicles": 14,
+  "cost": 17.56523
+ },
+ "instance_318": {
+  "number_of_vehicles": 18,
+  "cost": 26.47755
+ },
+ "instance_319": {
+  "number_of_vehicles": 16,
+  "cost": 19.52604
+ },
+ "instance_320": {
+  "number_of_vehicles": 15,
+  "cost": 19.23905
+ },
+ "instance_321": {
+  "number_of_vehicles": 15,
+  "cost": 21.98811
+ },
+ "instance_322": {
+  "number_of_vehicles": 16,
+  "cost": 21.61314
+ },
+ "instance_323": {
+  "number_of_vehicles": 16,
+  "cost": 19.83498
+ },
+ "instance_324": {
+  "number_of_vehicles": 16,
+  "cost": 22.60117
+ },
+ "instance_325": {
+  "number_of_vehicles": 14,
+  "cost": 16.40407
+ },
+ "instance_326": {
+  "number_of_vehicles": 16,
+  "cost": 25.01383
+ },
+ "instance_327": {
+  "number_of_vehicles": 15,
+  "cost": 21.30703
+ },
+ "instance_328": {
+  "number_of_vehicles": 15,
+  "cost": 21.91779
+ },
+ "instance_329": {
+  "number_of_vehicles": 15,
+  "cost": 17.85091
+ },
+ "instance_330": {
+  "number_of_vehicles": 15,
+  "cost": 18.27081
+ },
+ "instance_331": {
+  "number_of_vehicles": 16,
+  "cost": 22.09437
+ },
+ "instance_332": {
+  "number_of_vehicles": 17,
+  "cost": 26.6809
+ },
+ "instance_333": {
+  "number_of_vehicles": 15,
+  "cost": 21.93693
+ },
+ "instance_334": {
+  "number_of_vehicles": 20,
+  "cost": 35.89476
+ },
+ "instance_335": {
+  "number_of_vehicles": 16,
+  "cost": 22.56946
+ },
+ "instance_336": {
+  "number_of_vehicles": 16,
+  "cost": 21.66317
+ },
+ "instance_337": {
+  "number_of_vehicles": 15,
+  "cost": 18.37198
+ },
+ "instance_338": {
+  "number_of_vehicles": 16,
+  "cost": 22.13466
+ },
+ "instance_339": {
+  "number_of_vehicles": 17,
+  "cost": 21.99647
+ },
+ "instance_340": {
+  "number_of_vehicles": 14,
+  "cost": 17.22026
+ },
+ "instance_341": {
+  "number_of_vehicles": 16,
+  "cost": 20.30459
+ },
+ "instance_342": {
+  "number_of_vehicles": 17,
+  "cost": 27.15058
+ },
+ "instance_343": {
+  "number_of_vehicles": 20,
+  "cost": 30.52344
+ },
+ "instance_344": {
+  "number_of_vehicles": 18,
+  "cost": 28.99883
+ },
+ "instance_345": {
+  "number_of_vehicles": 19,
+  "cost": 31.57221
+ },
+ "instance_346": {
+  "number_of_vehicles": 15,
+  "cost": 18.32438
+ },
+ "instance_347": {
+  "number_of_vehicles": 20,
+  "cost": 35.89069
+ },
+ "instance_348": {
+  "number_of_vehicles": 16,
+  "cost": 20.98937
+ },
+ "instance_349": {
+  "number_of_vehicles": 16,
+  "cost": 20.29316
+ },
+ "instance_350": {
+  "number_of_vehicles": 17,
+  "cost": 26.61501
+ },
+ "instance_351": {
+  "number_of_vehicles": 19,
+  "cost": 31.95289
+ },
+ "instance_352": {
+  "number_of_vehicles": 19,
+  "cost": 30.90264
+ },
+ "instance_353": {
+  "number_of_vehicles": 18,
+  "cost": 28.55357
+ },
+ "instance_354": {
+  "number_of_vehicles": 18,
+  "cost": 28.36273
+ },
+ "instance_355": {
+  "number_of_vehicles": 17,
+  "cost": 27.87059
+ },
+ "instance_356": {
+  "number_of_vehicles": 17,
+  "cost": 23.40106
+ },
+ "instance_357": {
+  "number_of_vehicles": 20,
+  "cost": 34.16508
+ },
+ "instance_358": {
+  "number_of_vehicles": 17,
+  "cost": 25.92321
+ },
+ "instance_359": {
+  "number_of_vehicles": 15,
+  "cost": 18.85424
+ },
+ "instance_360": {
+  "number_of_vehicles": 15,
+  "cost": 17.687
+ },
+ "instance_361": {
+  "number_of_vehicles": 16,
+  "cost": 21.39023
+ },
+ "instance_362": {
+  "number_of_vehicles": 17,
+  "cost": 26.10372
+ },
+ "instance_363": {
+  "number_of_vehicles": 18,
+  "cost": 29.40874
+ },
+ "instance_364": {
+  "number_of_vehicles": 18,
+  "cost": 28.88786
+ },
+ "instance_365": {
+  "number_of_vehicles": 16,
+  "cost": 19.76326
+ },
+ "instance_366": {
+  "number_of_vehicles": 20,
+  "cost": 33.79203
+ },
+ "instance_367": {
+  "number_of_vehicles": 16,
+  "cost": 23.16392
+ },
+ "instance_368": {
+  "number_of_vehicles": 17,
+  "cost": 25.33444
+ },
+ "instance_369": {
+  "number_of_vehicles": 15,
+  "cost": 21.23781
+ },
+ "instance_370": {
+  "number_of_vehicles": 17,
+  "cost": 27.11471
+ },
+ "instance_371": {
+  "number_of_vehicles": 14,
+  "cost": 17.89581
+ },
+ "instance_372": {
+  "number_of_vehicles": 18,
+  "cost": 28.70274
+ },
+ "instance_373": {
+  "number_of_vehicles": 14,
+  "cost": 17.26693
+ },
+ "instance_374": {
+  "number_of_vehicles": 19,
+  "cost": 29.76301
+ },
+ "instance_375": {
+  "number_of_vehicles": 17,
+  "cost": 23.84722
+ },
+ "instance_376": {
+  "number_of_vehicles": 19,
+  "cost": 32.99926
+ },
+ "instance_377": {
+  "number_of_vehicles": 15,
+  "cost": 22.89932
+ },
+ "instance_378": {
+  "number_of_vehicles": 19,
+  "cost": 31.39746
+ },
+ "instance_379": {
+  "number_of_vehicles": 19,
+  "cost": 28.42147
+ },
+ "instance_380": {
+  "number_of_vehicles": 15,
+  "cost": 20.6139
+ },
+ "instance_381": {
+  "number_of_vehicles": 19,
+  "cost": 33.42731
+ },
+ "instance_382": {
+  "number_of_vehicles": 18,
+  "cost": 27.74149
+ },
+ "instance_383": {
+  "number_of_vehicles": 14,
+  "cost": 17.86299
+ },
+ "instance_384": {
+  "number_of_vehicles": 15,
+  "cost": 18.75619
+ },
+ "instance_385": {
+  "number_of_vehicles": 15,
+  "cost": 18.97358
+ },
+ "instance_386": {
+  "number_of_vehicles": 18,
+  "cost": 27.65057
+ },
+ "instance_387": {
+  "number_of_vehicles": 14,
+  "cost": 17.42458
+ },
+ "instance_388": {
+  "number_of_vehicles": 17,
+  "cost": 26.12807
+ },
+ "instance_389": {
+  "number_of_vehicles": 18,
+  "cost": 28.53259
+ },
+ "instance_390": {
+  "number_of_vehicles": 18,
+  "cost": 26.4874
+ },
+ "instance_391": {
+  "number_of_vehicles": 16,
+  "cost": 20.861
+ },
+ "instance_392": {
+  "number_of_vehicles": 16,
+  "cost": 23.11177
+ },
+ "instance_393": {
+  "number_of_vehicles": 18,
+  "cost": 30.68329
+ },
+ "instance_394": {
+  "number_of_vehicles": 19,
+  "cost": 32.87178
+ },
+ "instance_395": {
+  "number_of_vehicles": 15,
+  "cost": 19.82788
+ },
+ "instance_396": {
+  "number_of_vehicles": 18,
+  "cost": 29.33786
+ },
+ "instance_397": {
+  "number_of_vehicles": 17,
+  "cost": 23.1378
+ },
+ "instance_398": {
+  "number_of_vehicles": 16,
+  "cost": 24.4303
+ },
+ "instance_399": {
+  "number_of_vehicles": 18,
+  "cost": 26.8727
+ },
+ "instance_400": {
+  "number_of_vehicles": 18,
+  "cost": 29.78804
+ },
+ "instance_401": {
+  "number_of_vehicles": 16,
+  "cost": 18.81417
+ },
+ "instance_402": {
+  "number_of_vehicles": 18,
+  "cost": 28.80167
+ },
+ "instance_403": {
+  "number_of_vehicles": 18,
+  "cost": 26.91307
+ },
+ "instance_404": {
+  "number_of_vehicles": 16,
+  "cost": 21.94225
+ },
+ "instance_405": {
+  "number_of_vehicles": 16,
+  "cost": 22.78376
+ },
+ "instance_406": {
+  "number_of_vehicles": 21,
+  "cost": 38.70082
+ },
+ "instance_407": {
+  "number_of_vehicles": 15,
+  "cost": 19.52945
+ },
+ "instance_408": {
+  "number_of_vehicles": 19,
+  "cost": 30.8048
+ },
+ "instance_409": {
+  "number_of_vehicles": 15,
+  "cost": 19.42365
+ },
+ "instance_410": {
+  "number_of_vehicles": 17,
+  "cost": 24.37848
+ },
+ "instance_411": {
+  "number_of_vehicles": 21,
+  "cost": 38.19667
+ },
+ "instance_412": {
+  "number_of_vehicles": 15,
+  "cost": 20.52278
+ },
+ "instance_413": {
+  "number_of_vehicles": 19,
+  "cost": 30.67076
+ },
+ "instance_414": {
+  "number_of_vehicles": 15,
+  "cost": 18.7251
+ },
+ "instance_415": {
+  "number_of_vehicles": 18,
+  "cost": 27.03129
+ },
+ "instance_416": {
+  "number_of_vehicles": 17,
+  "cost": 26.17519
+ },
+ "instance_417": {
+  "number_of_vehicles": 16,
+  "cost": 23.72666
+ },
+ "instance_418": {
+  "number_of_vehicles": 15,
+  "cost": 18.01136
+ },
+ "instance_419": {
+  "number_of_vehicles": 16,
+  "cost": 21.64781
+ },
+ "instance_420": {
+  "number_of_vehicles": 15,
+  "cost": 19.8523
+ },
+ "instance_421": {
+  "number_of_vehicles": 17,
+  "cost": 25.62213
+ },
+ "instance_422": {
+  "number_of_vehicles": 17,
+  "cost": 27.44103
+ },
+ "instance_423": {
+  "number_of_vehicles": 17,
+  "cost": 25.49301
+ },
+ "instance_424": {
+  "number_of_vehicles": 15,
+  "cost": 18.7037
+ },
+ "instance_425": {
+  "number_of_vehicles": 15,
+  "cost": 20.51223
+ },
+ "instance_426": {
+  "number_of_vehicles": 16,
+  "cost": 23.8832
+ },
+ "instance_427": {
+  "number_of_vehicles": 15,
+  "cost": 18.01521
+ },
+ "instance_428": {
+  "number_of_vehicles": 15,
+  "cost": 21.32011
+ },
+ "instance_429": {
+  "number_of_vehicles": 15,
+  "cost": 17.82299
+ },
+ "instance_430": {
+  "number_of_vehicles": 15,
+  "cost": 18.73048
+ },
+ "instance_431": {
+  "number_of_vehicles": 18,
+  "cost": 29.25886
+ },
+ "instance_432": {
+  "number_of_vehicles": 16,
+  "cost": 22.85971
+ },
+ "instance_433": {
+  "number_of_vehicles": 18,
+  "cost": 27.53055
+ },
+ "instance_434": {
+  "number_of_vehicles": 17,
+  "cost": 26.1332
+ },
+ "instance_435": {
+  "number_of_vehicles": 17,
+  "cost": 26.99832
+ },
+ "instance_436": {
+  "number_of_vehicles": 18,
+  "cost": 28.30126
+ },
+ "instance_437": {
+  "number_of_vehicles": 16,
+  "cost": 25.85608
+ },
+ "instance_438": {
+  "number_of_vehicles": 17,
+  "cost": 28.45506
+ },
+ "instance_439": {
+  "number_of_vehicles": 16,
+  "cost": 23.49034
+ },
+ "instance_440": {
+  "number_of_vehicles": 17,
+  "cost": 27.91985
+ },
+ "instance_441": {
+  "number_of_vehicles": 21,
+  "cost": 37.00808
+ },
+ "instance_442": {
+  "number_of_vehicles": 19,
+  "cost": 30.23747
+ },
+ "instance_443": {
+  "number_of_vehicles": 19,
+  "cost": 31.44796
+ },
+ "instance_444": {
+  "number_of_vehicles": 15,
+  "cost": 19.29091
+ },
+ "instance_445": {
+  "number_of_vehicles": 16,
+  "cost": 25.10287
+ },
+ "instance_446": {
+  "number_of_vehicles": 15,
+  "cost": 19.88236
+ },
+ "instance_447": {
+  "number_of_vehicles": 17,
+  "cost": 27.18064
+ },
+ "instance_448": {
+  "number_of_vehicles": 16,
+  "cost": 22.91282
+ },
+ "instance_449": {
+  "number_of_vehicles": 16,
+  "cost": 22.45737
+ },
+ "instance_450": {
+  "number_of_vehicles": 14,
+  "cost": 18.60987
+ },
+ "instance_451": {
+  "number_of_vehicles": 15,
+  "cost": 18.33842
+ },
+ "instance_452": {
+  "number_of_vehicles": 17,
+  "cost": 25.05622
+ },
+ "instance_453": {
+  "number_of_vehicles": 17,
+  "cost": 26.33938
+ },
+ "instance_454": {
+  "number_of_vehicles": 18,
+  "cost": 27.68998
+ },
+ "instance_455": {
+  "number_of_vehicles": 17,
+  "cost": 26.45098
+ },
+ "instance_456": {
+  "number_of_vehicles": 16,
+  "cost": 23.07044
+ },
+ "instance_457": {
+  "number_of_vehicles": 16,
+  "cost": 20.74284
+ },
+ "instance_458": {
+  "number_of_vehicles": 17,
+  "cost": 22.56129
+ },
+ "instance_459": {
+  "number_of_vehicles": 19,
+  "cost": 31.87618
+ },
+ "instance_460": {
+  "number_of_vehicles": 17,
+  "cost": 27.57799
+ },
+ "instance_461": {
+  "number_of_vehicles": 15,
+  "cost": 20.57899
+ },
+ "instance_462": {
+  "number_of_vehicles": 15,
+  "cost": 20.22135
+ },
+ "instance_463": {
+  "number_of_vehicles": 15,
+  "cost": 20.71014
+ },
+ "instance_464": {
+  "number_of_vehicles": 15,
+  "cost": 21.21762
+ },
+ "instance_465": {
+  "number_of_vehicles": 19,
+  "cost": 30.67108
+ },
+ "instance_466": {
+  "number_of_vehicles": 18,
+  "cost": 28.97634
+ },
+ "instance_467": {
+  "number_of_vehicles": 19,
+  "cost": 31.88762
+ },
+ "instance_468": {
+  "number_of_vehicles": 15,
+  "cost": 21.27415
+ },
+ "instance_469": {
+  "number_of_vehicles": 16,
+  "cost": 23.07486
+ },
+ "instance_470": {
+  "number_of_vehicles": 15,
+  "cost": 20.44388
+ },
+ "instance_471": {
+  "number_of_vehicles": 17,
+  "cost": 26.31138
+ },
+ "instance_472": {
+  "number_of_vehicles": 15,
+  "cost": 20.34334
+ },
+ "instance_473": {
+  "number_of_vehicles": 17,
+  "cost": 26.73394
+ },
+ "instance_474": {
+  "number_of_vehicles": 15,
+  "cost": 19.47733
+ },
+ "instance_475": {
+  "number_of_vehicles": 17,
+  "cost": 26.59952
+ },
+ "instance_476": {
+  "number_of_vehicles": 16,
+  "cost": 22.76602
+ },
+ "instance_477": {
+  "number_of_vehicles": 21,
+  "cost": 38.65248
+ },
+ "instance_478": {
+  "number_of_vehicles": 17,
+  "cost": 23.05199
+ },
+ "instance_479": {
+  "number_of_vehicles": 15,
+  "cost": 19.60545
+ },
+ "instance_480": {
+  "number_of_vehicles": 16,
+  "cost": 22.7876
+ },
+ "instance_481": {
+  "number_of_vehicles": 16,
+  "cost": 20.23179
+ },
+ "instance_482": {
+  "number_of_vehicles": 18,
+  "cost": 30.22035
+ },
+ "instance_483": {
+  "number_of_vehicles": 15,
+  "cost": 18.19273
+ },
+ "instance_484": {
+  "number_of_vehicles": 18,
+  "cost": 28.67079
+ },
+ "instance_485": {
+  "number_of_vehicles": 17,
+  "cost": 23.93378
+ },
+ "instance_486": {
+  "number_of_vehicles": 16,
+  "cost": 23.3318
+ },
+ "instance_487": {
+  "number_of_vehicles": 14,
+  "cost": 18.25986
+ },
+ "instance_488": {
+  "number_of_vehicles": 17,
+  "cost": 22.83657
+ },
+ "instance_489": {
+  "number_of_vehicles": 14,
+  "cost": 18.42404
+ },
+ "instance_490": {
+  "number_of_vehicles": 16,
+  "cost": 20.50728
+ },
+ "instance_491": {
+  "number_of_vehicles": 17,
+  "cost": 26.595
+ },
+ "instance_492": {
+  "number_of_vehicles": 17,
+  "cost": 26.22881
+ },
+ "instance_493": {
+  "number_of_vehicles": 14,
+  "cost": 17.25269
+ },
+ "instance_494": {
+  "number_of_vehicles": 16,
+  "cost": 23.84752
+ },
+ "instance_495": {
+  "number_of_vehicles": 16,
+  "cost": 24.55284
+ },
+ "instance_496": {
+  "number_of_vehicles": 15,
+  "cost": 17.22676
+ },
+ "instance_497": {
+  "number_of_vehicles": 14,
+  "cost": 17.81748
+ },
+ "instance_498": {
+  "number_of_vehicles": 16,
+  "cost": 22.8805
+ },
+ "instance_499": {
+  "number_of_vehicles": 17,
+  "cost": 29.47064
+ },
+ "instance_500": {
+  "number_of_vehicles": 17,
+  "cost": 26.89487
+ },
+ "instance_501": {
+  "number_of_vehicles": 17,
+  "cost": 25.20806
+ },
+ "instance_502": {
+  "number_of_vehicles": 16,
+  "cost": 22.92002
+ },
+ "instance_503": {
+  "number_of_vehicles": 17,
+  "cost": 24.54883
+ },
+ "instance_504": {
+  "number_of_vehicles": 15,
+  "cost": 19.2304
+ },
+ "instance_505": {
+  "number_of_vehicles": 17,
+  "cost": 22.20801
+ },
+ "instance_506": {
+  "number_of_vehicles": 18,
+  "cost": 29.4666
+ },
+ "instance_507": {
+  "number_of_vehicles": 16,
+  "cost": 22.59948
+ },
+ "instance_508": {
+  "number_of_vehicles": 16,
+  "cost": 19.56993
+ },
+ "instance_509": {
+  "number_of_vehicles": 17,
+  "cost": 27.64701
+ },
+ "instance_510": {
+  "number_of_vehicles": 18,
+  "cost": 25.49999
+ },
+ "instance_511": {
+  "number_of_vehicles": 18,
+  "cost": 28.9978
+ },
+ "instance_512": {
+  "number_of_vehicles": 19,
+  "cost": 32.87083
+ },
+ "instance_513": {
+  "number_of_vehicles": 17,
+  "cost": 22.88578
+ },
+ "instance_514": {
+  "number_of_vehicles": 16,
+  "cost": 22.55439
+ },
+ "instance_515": {
+  "number_of_vehicles": 18,
+  "cost": 28.55365
+ },
+ "instance_516": {
+  "number_of_vehicles": 15,
+  "cost": 20.00521
+ },
+ "instance_517": {
+  "number_of_vehicles": 16,
+  "cost": 20.64205
+ },
+ "instance_518": {
+  "number_of_vehicles": 18,
+  "cost": 27.25262
+ },
+ "instance_519": {
+  "number_of_vehicles": 15,
+  "cost": 20.72989
+ },
+ "instance_520": {
+  "number_of_vehicles": 18,
+  "cost": 26.43247
+ },
+ "instance_521": {
+  "number_of_vehicles": 19,
+  "cost": 32.95587
+ },
+ "instance_522": {
+  "number_of_vehicles": 15,
+  "cost": 21.74142
+ },
+ "instance_523": {
+  "number_of_vehicles": 15,
+  "cost": 18.79668
+ },
+ "instance_524": {
+  "number_of_vehicles": 16,
+  "cost": 24.18754
+ },
+ "instance_525": {
+  "number_of_vehicles": 21,
+  "cost": 39.85815
+ },
+ "instance_526": {
+  "number_of_vehicles": 15,
+  "cost": 19.71693
+ },
+ "instance_527": {
+  "number_of_vehicles": 14,
+  "cost": 16.72438
+ },
+ "instance_528": {
+  "number_of_vehicles": 15,
+  "cost": 18.14959
+ },
+ "instance_529": {
+  "number_of_vehicles": 17,
+  "cost": 26.72535
+ },
+ "instance_530": {
+  "number_of_vehicles": 16,
+  "cost": 23.64462
+ },
+ "instance_531": {
+  "number_of_vehicles": 16,
+  "cost": 20.98006
+ },
+ "instance_532": {
+  "number_of_vehicles": 15,
+  "cost": 21.6113
+ },
+ "instance_533": {
+  "number_of_vehicles": 16,
+  "cost": 20.49878
+ },
+ "instance_534": {
+  "number_of_vehicles": 15,
+  "cost": 18.33311
+ },
+ "instance_535": {
+  "number_of_vehicles": 17,
+  "cost": 26.7457
+ },
+ "instance_536": {
+  "number_of_vehicles": 14,
+  "cost": 18.54149
+ },
+ "instance_537": {
+  "number_of_vehicles": 16,
+  "cost": 23.79775
+ },
+ "instance_538": {
+  "number_of_vehicles": 24,
+  "cost": 45.78753
+ },
+ "instance_539": {
+  "number_of_vehicles": 16,
+  "cost": 23.1694
+ },
+ "instance_540": {
+  "number_of_vehicles": 16,
+  "cost": 21.0201
+ },
+ "instance_541": {
+  "number_of_vehicles": 15,
+  "cost": 20.60332
+ },
+ "instance_542": {
+  "number_of_vehicles": 15,
+  "cost": 20.77468
+ },
+ "instance_543": {
+  "number_of_vehicles": 16,
+  "cost": 23.71431
+ },
+ "instance_544": {
+  "number_of_vehicles": 19,
+  "cost": 31.1124
+ },
+ "instance_545": {
+  "number_of_vehicles": 20,
+  "cost": 37.06715
+ },
+ "instance_546": {
+  "number_of_vehicles": 17,
+  "cost": 24.62955
+ },
+ "instance_547": {
+  "number_of_vehicles": 18,
+  "cost": 31.60787
+ },
+ "instance_548": {
+  "number_of_vehicles": 17,
+  "cost": 26.26831
+ },
+ "instance_549": {
+  "number_of_vehicles": 16,
+  "cost": 22.2227
+ },
+ "instance_550": {
+  "number_of_vehicles": 18,
+  "cost": 26.60704
+ },
+ "instance_551": {
+  "number_of_vehicles": 15,
+  "cost": 18.09194
+ },
+ "instance_552": {
+  "number_of_vehicles": 17,
+  "cost": 26.02312
+ },
+ "instance_553": {
+  "number_of_vehicles": 16,
+  "cost": 24.41708
+ },
+ "instance_554": {
+  "number_of_vehicles": 18,
+  "cost": 29.08253
+ },
+ "instance_555": {
+  "number_of_vehicles": 18,
+  "cost": 23.59583
+ },
+ "instance_556": {
+  "number_of_vehicles": 15,
+  "cost": 19.4409
+ },
+ "instance_557": {
+  "number_of_vehicles": 16,
+  "cost": 22.05042
+ },
+ "instance_558": {
+  "number_of_vehicles": 18,
+  "cost": 28.37129
+ },
+ "instance_559": {
+  "number_of_vehicles": 15,
+  "cost": 22.05937
+ },
+ "instance_560": {
+  "number_of_vehicles": 17,
+  "cost": 24.157
+ },
+ "instance_561": {
+  "number_of_vehicles": 20,
+  "cost": 33.65419
+ },
+ "instance_562": {
+  "number_of_vehicles": 16,
+  "cost": 23.98585
+ },
+ "instance_563": {
+  "number_of_vehicles": 15,
+  "cost": 17.23341
+ },
+ "instance_564": {
+  "number_of_vehicles": 15,
+  "cost": 19.16107
+ },
+ "instance_565": {
+  "number_of_vehicles": 18,
+  "cost": 25.90772
+ },
+ "instance_566": {
+  "number_of_vehicles": 18,
+  "cost": 27.50434
+ },
+ "instance_567": {
+  "number_of_vehicles": 17,
+  "cost": 22.58222
+ },
+ "instance_568": {
+  "number_of_vehicles": 15,
+  "cost": 18.40662
+ },
+ "instance_569": {
+  "number_of_vehicles": 16,
+  "cost": 23.08083
+ },
+ "instance_570": {
+  "number_of_vehicles": 19,
+  "cost": 30.41901
+ },
+ "instance_571": {
+  "number_of_vehicles": 15,
+  "cost": 20.22836
+ },
+ "instance_572": {
+  "number_of_vehicles": 16,
+  "cost": 22.22919
+ },
+ "instance_573": {
+  "number_of_vehicles": 17,
+  "cost": 28.04333
+ },
+ "instance_574": {
+  "number_of_vehicles": 17,
+  "cost": 23.10439
+ },
+ "instance_575": {
+  "number_of_vehicles": 24,
+  "cost": 46.65108
+ },
+ "instance_576": {
+  "number_of_vehicles": 20,
+  "cost": 34.0008
+ },
+ "instance_577": {
+  "number_of_vehicles": 16,
+  "cost": 24.11399
+ },
+ "instance_578": {
+  "number_of_vehicles": 17,
+  "cost": 20.79806
+ },
+ "instance_579": {
+  "number_of_vehicles": 17,
+  "cost": 26.57836
+ },
+ "instance_580": {
+  "number_of_vehicles": 16,
+  "cost": 19.80633
+ },
+ "instance_581": {
+  "number_of_vehicles": 18,
+  "cost": 27.10053
+ },
+ "instance_582": {
+  "number_of_vehicles": 18,
+  "cost": 26.62814
+ },
+ "instance_583": {
+  "number_of_vehicles": 16,
+  "cost": 20.99996
+ },
+ "instance_584": {
+  "number_of_vehicles": 18,
+  "cost": 28.95155
+ },
+ "instance_585": {
+  "number_of_vehicles": 16,
+  "cost": 18.99014
+ },
+ "instance_586": {
+  "number_of_vehicles": 16,
+  "cost": 22.05041
+ },
+ "instance_587": {
+  "number_of_vehicles": 18,
+  "cost": 30.66554
+ },
+ "instance_588": {
+  "number_of_vehicles": 19,
+  "cost": 29.60315
+ },
+ "instance_589": {
+  "number_of_vehicles": 16,
+  "cost": 22.8607
+ },
+ "instance_590": {
+  "number_of_vehicles": 17,
+  "cost": 25.00691
+ },
+ "instance_591": {
+  "number_of_vehicles": 19,
+  "cost": 32.87285
+ },
+ "instance_592": {
+  "number_of_vehicles": 17,
+  "cost": 26.87171
+ },
+ "instance_593": {
+  "number_of_vehicles": 15,
+  "cost": 17.97094
+ },
+ "instance_594": {
+  "number_of_vehicles": 18,
+  "cost": 29.46342
+ },
+ "instance_595": {
+  "number_of_vehicles": 17,
+  "cost": 24.57912
+ },
+ "instance_596": {
+  "number_of_vehicles": 15,
+  "cost": 19.66786
+ },
+ "instance_597": {
+  "number_of_vehicles": 16,
+  "cost": 21.72034
+ },
+ "instance_598": {
+  "number_of_vehicles": 22,
+  "cost": 43.0657
+ },
+ "instance_599": {
+  "number_of_vehicles": 16,
+  "cost": 19.52618
+ },
+ "instance_600": {
+  "number_of_vehicles": 19,
+  "cost": 33.46098
+ },
+ "instance_601": {
+  "number_of_vehicles": 17,
+  "cost": 27.59534
+ },
+ "instance_602": {
+  "number_of_vehicles": 15,
+  "cost": 19.02866
+ },
+ "instance_603": {
+  "number_of_vehicles": 15,
+  "cost": 21.34774
+ },
+ "instance_604": {
+  "number_of_vehicles": 16,
+  "cost": 20.8396
+ },
+ "instance_605": {
+  "number_of_vehicles": 15,
+  "cost": 19.87236
+ },
+ "instance_606": {
+  "number_of_vehicles": 15,
+  "cost": 19.12567
+ },
+ "instance_607": {
+  "number_of_vehicles": 18,
+  "cost": 29.77137
+ },
+ "instance_608": {
+  "number_of_vehicles": 16,
+  "cost": 20.42393
+ },
+ "instance_609": {
+  "number_of_vehicles": 16,
+  "cost": 21.38274
+ },
+ "instance_610": {
+  "number_of_vehicles": 16,
+  "cost": 20.94896
+ },
+ "instance_611": {
+  "number_of_vehicles": 15,
+  "cost": 18.71077
+ },
+ "instance_612": {
+  "number_of_vehicles": 16,
+  "cost": 22.76795
+ },
+ "instance_613": {
+  "number_of_vehicles": 16,
+  "cost": 22.27367
+ },
+ "instance_614": {
+  "number_of_vehicles": 15,
+  "cost": 17.42722
+ },
+ "instance_615": {
+  "number_of_vehicles": 15,
+  "cost": 19.01696
+ },
+ "instance_616": {
+  "number_of_vehicles": 17,
+  "cost": 23.88078
+ },
+ "instance_617": {
+  "number_of_vehicles": 15,
+  "cost": 19.69008
+ },
+ "instance_618": {
+  "number_of_vehicles": 16,
+  "cost": 22.34663
+ },
+ "instance_619": {
+  "number_of_vehicles": 19,
+  "cost": 30.56963
+ },
+ "instance_620": {
+  "number_of_vehicles": 14,
+  "cost": 18.21245
+ },
+ "instance_621": {
+  "number_of_vehicles": 17,
+  "cost": 24.60283
+ },
+ "instance_622": {
+  "number_of_vehicles": 15,
+  "cost": 18.77975
+ },
+ "instance_623": {
+  "number_of_vehicles": 15,
+  "cost": 17.59215
+ },
+ "instance_624": {
+  "number_of_vehicles": 15,
+  "cost": 18.13636
+ },
+ "instance_625": {
+  "number_of_vehicles": 14,
+  "cost": 18.2883
+ },
+ "instance_626": {
+  "number_of_vehicles": 14,
+  "cost": 16.98937
+ },
+ "instance_627": {
+  "number_of_vehicles": 16,
+  "cost": 24.16286
+ },
+ "instance_628": {
+  "number_of_vehicles": 18,
+  "cost": 27.45581
+ },
+ "instance_629": {
+  "number_of_vehicles": 17,
+  "cost": 27.6843
+ },
+ "instance_630": {
+  "number_of_vehicles": 18,
+  "cost": 29.76021
+ },
+ "instance_631": {
+  "number_of_vehicles": 16,
+  "cost": 22.3665
+ },
+ "instance_632": {
+  "number_of_vehicles": 16,
+  "cost": 22.74818
+ },
+ "instance_633": {
+  "number_of_vehicles": 14,
+  "cost": 16.18235
+ },
+ "instance_634": {
+  "number_of_vehicles": 17,
+  "cost": 25.62961
+ },
+ "instance_635": {
+  "number_of_vehicles": 17,
+  "cost": 25.13824
+ },
+ "instance_636": {
+  "number_of_vehicles": 15,
+  "cost": 17.94156
+ },
+ "instance_637": {
+  "number_of_vehicles": 16,
+  "cost": 25.30089
+ },
+ "instance_638": {
+  "number_of_vehicles": 16,
+  "cost": 23.14912
+ },
+ "instance_639": {
+  "number_of_vehicles": 18,
+  "cost": 28.11727
+ },
+ "instance_640": {
+  "number_of_vehicles": 18,
+  "cost": 26.94015
+ },
+ "instance_641": {
+  "number_of_vehicles": 16,
+  "cost": 24.34823
+ },
+ "instance_642": {
+  "number_of_vehicles": 17,
+  "cost": 26.28986
+ },
+ "instance_643": {
+  "number_of_vehicles": 16,
+  "cost": 23.0467
+ },
+ "instance_644": {
+  "number_of_vehicles": 16,
+  "cost": 19.23765
+ },
+ "instance_645": {
+  "number_of_vehicles": 16,
+  "cost": 20.92254
+ },
+ "instance_646": {
+  "number_of_vehicles": 18,
+  "cost": 30.85873
+ },
+ "instance_647": {
+  "number_of_vehicles": 15,
+  "cost": 20.61108
+ },
+ "instance_648": {
+  "number_of_vehicles": 20,
+  "cost": 32.61462
+ },
+ "instance_649": {
+  "number_of_vehicles": 16,
+  "cost": 22.45034
+ },
+ "instance_650": {
+  "number_of_vehicles": 19,
+  "cost": 32.32881
+ },
+ "instance_651": {
+  "number_of_vehicles": 16,
+  "cost": 20.4865
+ },
+ "instance_652": {
+  "number_of_vehicles": 14,
+  "cost": 16.9905
+ },
+ "instance_653": {
+  "number_of_vehicles": 15,
+  "cost": 21.4434
+ },
+ "instance_654": {
+  "number_of_vehicles": 15,
+  "cost": 18.43495
+ },
+ "instance_655": {
+  "number_of_vehicles": 16,
+  "cost": 23.96176
+ },
+ "instance_656": {
+  "number_of_vehicles": 15,
+  "cost": 20.99554
+ },
+ "instance_657": {
+  "number_of_vehicles": 17,
+  "cost": 23.10201
+ },
+ "instance_658": {
+  "number_of_vehicles": 16,
+  "cost": 22.39205
+ },
+ "instance_659": {
+  "number_of_vehicles": 15,
+  "cost": 20.5698
+ },
+ "instance_660": {
+  "number_of_vehicles": 17,
+  "cost": 25.72332
+ },
+ "instance_661": {
+  "number_of_vehicles": 19,
+  "cost": 31.63747
+ },
+ "instance_662": {
+  "number_of_vehicles": 17,
+  "cost": 25.36683
+ },
+ "instance_663": {
+  "number_of_vehicles": 16,
+  "cost": 22.08267
+ },
+ "instance_664": {
+  "number_of_vehicles": 18,
+  "cost": 28.20395
+ },
+ "instance_665": {
+  "number_of_vehicles": 15,
+  "cost": 19.63734
+ },
+ "instance_666": {
+  "number_of_vehicles": 18,
+  "cost": 25.61655
+ },
+ "instance_667": {
+  "number_of_vehicles": 14,
+  "cost": 16.6402
+ },
+ "instance_668": {
+  "number_of_vehicles": 15,
+  "cost": 18.94049
+ },
+ "instance_669": {
+  "number_of_vehicles": 21,
+  "cost": 36.26666
+ },
+ "instance_670": {
+  "number_of_vehicles": 18,
+  "cost": 28.41914
+ },
+ "instance_671": {
+  "number_of_vehicles": 17,
+  "cost": 27.31918
+ },
+ "instance_672": {
+  "number_of_vehicles": 16,
+  "cost": 20.54305
+ },
+ "instance_673": {
+  "number_of_vehicles": 17,
+  "cost": 23.90675
+ },
+ "instance_674": {
+  "number_of_vehicles": 16,
+  "cost": 23.57931
+ },
+ "instance_675": {
+  "number_of_vehicles": 17,
+  "cost": 22.37914
+ },
+ "instance_676": {
+  "number_of_vehicles": 17,
+  "cost": 26.53413
+ },
+ "instance_677": {
+  "number_of_vehicles": 14,
+  "cost": 17.78183
+ },
+ "instance_678": {
+  "number_of_vehicles": 16,
+  "cost": 22.99701
+ },
+ "instance_679": {
+  "number_of_vehicles": 21,
+  "cost": 36.45094
+ },
+ "instance_680": {
+  "number_of_vehicles": 17,
+  "cost": 25.96838
+ },
+ "instance_681": {
+  "number_of_vehicles": 20,
+  "cost": 35.32741
+ },
+ "instance_682": {
+  "number_of_vehicles": 18,
+  "cost": 28.96425
+ },
+ "instance_683": {
+  "number_of_vehicles": 17,
+  "cost": 25.4362
+ },
+ "instance_684": {
+  "number_of_vehicles": 19,
+  "cost": 35.05184
+ },
+ "instance_685": {
+  "number_of_vehicles": 16,
+  "cost": 24.07816
+ },
+ "instance_686": {
+  "number_of_vehicles": 21,
+  "cost": 37.93315
+ },
+ "instance_687": {
+  "number_of_vehicles": 17,
+  "cost": 25.41385
+ },
+ "instance_688": {
+  "number_of_vehicles": 15,
+  "cost": 19.26939
+ },
+ "instance_689": {
+  "number_of_vehicles": 15,
+  "cost": 19.47953
+ },
+ "instance_690": {
+  "number_of_vehicles": 18,
+  "cost": 29.22151
+ },
+ "instance_691": {
+  "number_of_vehicles": 18,
+  "cost": 27.94145
+ },
+ "instance_692": {
+  "number_of_vehicles": 14,
+  "cost": 17.84702
+ },
+ "instance_693": {
+  "number_of_vehicles": 18,
+  "cost": 28.81357
+ },
+ "instance_694": {
+  "number_of_vehicles": 18,
+  "cost": 29.70153
+ },
+ "instance_695": {
+  "number_of_vehicles": 17,
+  "cost": 26.64207
+ },
+ "instance_696": {
+  "number_of_vehicles": 15,
+  "cost": 19.35033
+ },
+ "instance_697": {
+  "number_of_vehicles": 15,
+  "cost": 16.76072
+ },
+ "instance_698": {
+  "number_of_vehicles": 15,
+  "cost": 19.78518
+ },
+ "instance_699": {
+  "number_of_vehicles": 19,
+  "cost": 32.35371
+ },
+ "instance_700": {
+  "number_of_vehicles": 19,
+  "cost": 32.54991
+ },
+ "instance_701": {
+  "number_of_vehicles": 14,
+  "cost": 16.93272
+ },
+ "instance_702": {
+  "number_of_vehicles": 18,
+  "cost": 27.02661
+ },
+ "instance_703": {
+  "number_of_vehicles": 20,
+  "cost": 35.42449
+ },
+ "instance_704": {
+  "number_of_vehicles": 18,
+  "cost": 29.13556
+ },
+ "instance_705": {
+  "number_of_vehicles": 16,
+  "cost": 21.71687
+ },
+ "instance_706": {
+  "number_of_vehicles": 16,
+  "cost": 25.85533
+ },
+ "instance_707": {
+  "number_of_vehicles": 15,
+  "cost": 19.11095
+ },
+ "instance_708": {
+  "number_of_vehicles": 18,
+  "cost": 28.73692
+ },
+ "instance_709": {
+  "number_of_vehicles": 16,
+  "cost": 19.93762
+ },
+ "instance_710": {
+  "number_of_vehicles": 21,
+  "cost": 40.23576
+ },
+ "instance_711": {
+  "number_of_vehicles": 15,
+  "cost": 19.9938
+ },
+ "instance_712": {
+  "number_of_vehicles": 19,
+  "cost": 30.08577
+ },
+ "instance_713": {
+  "number_of_vehicles": 16,
+  "cost": 22.74974
+ },
+ "instance_714": {
+  "number_of_vehicles": 15,
+  "cost": 18.97315
+ },
+ "instance_715": {
+  "number_of_vehicles": 17,
+  "cost": 26.44913
+ },
+ "instance_716": {
+  "number_of_vehicles": 16,
+  "cost": 22.48002
+ },
+ "instance_717": {
+  "number_of_vehicles": 15,
+  "cost": 19.21671
+ },
+ "instance_718": {
+  "number_of_vehicles": 15,
+  "cost": 21.89164
+ },
+ "instance_719": {
+  "number_of_vehicles": 15,
+  "cost": 19.03173
+ },
+ "instance_720": {
+  "number_of_vehicles": 16,
+  "cost": 23.86242
+ },
+ "instance_721": {
+  "number_of_vehicles": 18,
+  "cost": 29.01517
+ },
+ "instance_722": {
+  "number_of_vehicles": 18,
+  "cost": 28.11207
+ },
+ "instance_723": {
+  "number_of_vehicles": 14,
+  "cost": 17.61395
+ },
+ "instance_724": {
+  "number_of_vehicles": 17,
+  "cost": 27.18706
+ },
+ "instance_725": {
+  "number_of_vehicles": 16,
+  "cost": 22.89562
+ },
+ "instance_726": {
+  "number_of_vehicles": 15,
+  "cost": 18.87512
+ },
+ "instance_727": {
+  "number_of_vehicles": 20,
+  "cost": 34.25848
+ },
+ "instance_728": {
+  "number_of_vehicles": 16,
+  "cost": 21.84861
+ },
+ "instance_729": {
+  "number_of_vehicles": 15,
+  "cost": 17.55029
+ },
+ "instance_730": {
+  "number_of_vehicles": 16,
+  "cost": 19.71691
+ },
+ "instance_731": {
+  "number_of_vehicles": 17,
+  "cost": 26.63751
+ },
+ "instance_732": {
+  "number_of_vehicles": 16,
+  "cost": 19.36904
+ },
+ "instance_733": {
+  "number_of_vehicles": 19,
+  "cost": 30.78403
+ },
+ "instance_734": {
+  "number_of_vehicles": 17,
+  "cost": 23.58196
+ },
+ "instance_735": {
+  "number_of_vehicles": 16,
+  "cost": 22.33961
+ },
+ "instance_736": {
+  "number_of_vehicles": 17,
+  "cost": 25.46773
+ },
+ "instance_737": {
+  "number_of_vehicles": 16,
+  "cost": 19.73415
+ },
+ "instance_738": {
+  "number_of_vehicles": 16,
+  "cost": 22.97866
+ },
+ "instance_739": {
+  "number_of_vehicles": 21,
+  "cost": 38.82497
+ },
+ "instance_740": {
+  "number_of_vehicles": 16,
+  "cost": 22.73691
+ },
+ "instance_741": {
+  "number_of_vehicles": 16,
+  "cost": 23.86204
+ },
+ "instance_742": {
+  "number_of_vehicles": 15,
+  "cost": 17.73097
+ },
+ "instance_743": {
+  "number_of_vehicles": 16,
+  "cost": 21.11786
+ },
+ "instance_744": {
+  "number_of_vehicles": 15,
+  "cost": 19.59561
+ },
+ "instance_745": {
+  "number_of_vehicles": 16,
+  "cost": 21.95405
+ },
+ "instance_746": {
+  "number_of_vehicles": 18,
+  "cost": 29.18489
+ },
+ "instance_747": {
+  "number_of_vehicles": 15,
+  "cost": 21.50096
+ },
+ "instance_748": {
+  "number_of_vehicles": 15,
+  "cost": 17.9754
+ },
+ "instance_749": {
+  "number_of_vehicles": 16,
+  "cost": 22.23947
+ },
+ "instance_750": {
+  "number_of_vehicles": 23,
+  "cost": 44.928
+ },
+ "instance_751": {
+  "number_of_vehicles": 15,
+  "cost": 20.69184
+ },
+ "instance_752": {
+  "number_of_vehicles": 19,
+  "cost": 32.53182
+ },
+ "instance_753": {
+  "number_of_vehicles": 17,
+  "cost": 26.21836
+ },
+ "instance_754": {
+  "number_of_vehicles": 15,
+  "cost": 19.13628
+ },
+ "instance_755": {
+  "number_of_vehicles": 20,
+  "cost": 37.05688
+ },
+ "instance_756": {
+  "number_of_vehicles": 16,
+  "cost": 19.92472
+ },
+ "instance_757": {
+  "number_of_vehicles": 17,
+  "cost": 27.03416
+ },
+ "instance_758": {
+  "number_of_vehicles": 18,
+  "cost": 28.21378
+ },
+ "instance_759": {
+  "number_of_vehicles": 16,
+  "cost": 25.25785
+ },
+ "instance_760": {
+  "number_of_vehicles": 18,
+  "cost": 26.23804
+ },
+ "instance_761": {
+  "number_of_vehicles": 17,
+  "cost": 26.1641
+ },
+ "instance_762": {
+  "number_of_vehicles": 16,
+  "cost": 21.96895
+ },
+ "instance_763": {
+  "number_of_vehicles": 15,
+  "cost": 19.49114
+ },
+ "instance_764": {
+  "number_of_vehicles": 15,
+  "cost": 19.067
+ },
+ "instance_765": {
+  "number_of_vehicles": 16,
+  "cost": 21.20676
+ },
+ "instance_766": {
+  "number_of_vehicles": 15,
+  "cost": 19.82953
+ },
+ "instance_767": {
+  "number_of_vehicles": 16,
+  "cost": 21.72664
+ },
+ "instance_768": {
+  "number_of_vehicles": 15,
+  "cost": 17.70189
+ },
+ "instance_769": {
+  "number_of_vehicles": 16,
+  "cost": 21.46151
+ },
+ "instance_770": {
+  "number_of_vehicles": 18,
+  "cost": 27.12504
+ },
+ "instance_771": {
+  "number_of_vehicles": 16,
+  "cost": 23.52173
+ },
+ "instance_772": {
+  "number_of_vehicles": 17,
+  "cost": 25.29789
+ },
+ "instance_773": {
+  "number_of_vehicles": 16,
+  "cost": 24.73796
+ },
+ "instance_774": {
+  "number_of_vehicles": 18,
+  "cost": 28.27404
+ },
+ "instance_775": {
+  "number_of_vehicles": 15,
+  "cost": 19.27212
+ },
+ "instance_776": {
+  "number_of_vehicles": 16,
+  "cost": 24.9996
+ },
+ "instance_777": {
+  "number_of_vehicles": 16,
+  "cost": 21.23519
+ },
+ "instance_778": {
+  "number_of_vehicles": 17,
+  "cost": 26.64778
+ },
+ "instance_779": {
+  "number_of_vehicles": 17,
+  "cost": 23.0544
+ },
+ "instance_780": {
+  "number_of_vehicles": 16,
+  "cost": 22.01801
+ },
+ "instance_781": {
+  "number_of_vehicles": 17,
+  "cost": 25.45062
+ },
+ "instance_782": {
+  "number_of_vehicles": 17,
+  "cost": 23.0306
+ },
+ "instance_783": {
+  "number_of_vehicles": 15,
+  "cost": 20.10044
+ },
+ "instance_784": {
+  "number_of_vehicles": 17,
+  "cost": 27.49575
+ },
+ "instance_785": {
+  "number_of_vehicles": 16,
+  "cost": 24.80374
+ },
+ "instance_786": {
+  "number_of_vehicles": 15,
+  "cost": 22.54091
+ },
+ "instance_787": {
+  "number_of_vehicles": 14,
+  "cost": 17.98026
+ },
+ "instance_788": {
+  "number_of_vehicles": 14,
+  "cost": 19.25694
+ },
+ "instance_789": {
+  "number_of_vehicles": 17,
+  "cost": 26.12582
+ },
+ "instance_790": {
+  "number_of_vehicles": 16,
+  "cost": 22.56655
+ },
+ "instance_791": {
+  "number_of_vehicles": 15,
+  "cost": 18.55362
+ },
+ "instance_792": {
+  "number_of_vehicles": 15,
+  "cost": 18.8262
+ },
+ "instance_793": {
+  "number_of_vehicles": 16,
+  "cost": 21.1642
+ },
+ "instance_794": {
+  "number_of_vehicles": 15,
+  "cost": 19.8506
+ },
+ "instance_795": {
+  "number_of_vehicles": 18,
+  "cost": 29.4822
+ },
+ "instance_796": {
+  "number_of_vehicles": 15,
+  "cost": 18.05624
+ },
+ "instance_797": {
+  "number_of_vehicles": 17,
+  "cost": 26.55141
+ },
+ "instance_798": {
+  "number_of_vehicles": 18,
+  "cost": 27.75978
+ },
+ "instance_799": {
+  "number_of_vehicles": 16,
+  "cost": 22.25121
+ },
+ "instance_800": {
+  "number_of_vehicles": 15,
+  "cost": 19.50454
+ },
+ "instance_801": {
+  "number_of_vehicles": 15,
+  "cost": 19.58652
+ },
+ "instance_802": {
+  "number_of_vehicles": 17,
+  "cost": 21.37349
+ },
+ "instance_803": {
+  "number_of_vehicles": 15,
+  "cost": 18.5103
+ },
+ "instance_804": {
+  "number_of_vehicles": 20,
+  "cost": 34.70217
+ },
+ "instance_805": {
+  "number_of_vehicles": 16,
+  "cost": 22.66959
+ },
+ "instance_806": {
+  "number_of_vehicles": 17,
+  "cost": 27.89303
+ },
+ "instance_807": {
+  "number_of_vehicles": 17,
+  "cost": 25.39651
+ },
+ "instance_808": {
+  "number_of_vehicles": 15,
+  "cost": 18.69891
+ },
+ "instance_809": {
+  "number_of_vehicles": 17,
+  "cost": 26.71575
+ },
+ "instance_810": {
+  "number_of_vehicles": 15,
+  "cost": 18.77041
+ },
+ "instance_811": {
+  "number_of_vehicles": 16,
+  "cost": 23.482
+ },
+ "instance_812": {
+  "number_of_vehicles": 16,
+  "cost": 22.65349
+ },
+ "instance_813": {
+  "number_of_vehicles": 17,
+  "cost": 27.63249
+ },
+ "instance_814": {
+  "number_of_vehicles": 16,
+  "cost": 23.02922
+ },
+ "instance_815": {
+  "number_of_vehicles": 17,
+  "cost": 25.79197
+ },
+ "instance_816": {
+  "number_of_vehicles": 17,
+  "cost": 24.27774
+ },
+ "instance_817": {
+  "number_of_vehicles": 19,
+  "cost": 31.98907
+ },
+ "instance_818": {
+  "number_of_vehicles": 18,
+  "cost": 28.78852
+ },
+ "instance_819": {
+  "number_of_vehicles": 16,
+  "cost": 18.68653
+ },
+ "instance_820": {
+  "number_of_vehicles": 16,
+  "cost": 23.52193
+ },
+ "instance_821": {
+  "number_of_vehicles": 15,
+  "cost": 20.91514
+ },
+ "instance_822": {
+  "number_of_vehicles": 19,
+  "cost": 32.89852
+ },
+ "instance_823": {
+  "number_of_vehicles": 15,
+  "cost": 18.85048
+ },
+ "instance_824": {
+  "number_of_vehicles": 16,
+  "cost": 23.93263
+ },
+ "instance_825": {
+  "number_of_vehicles": 18,
+  "cost": 31.29478
+ },
+ "instance_826": {
+  "number_of_vehicles": 18,
+  "cost": 28.19201
+ },
+ "instance_827": {
+  "number_of_vehicles": 17,
+  "cost": 26.24799
+ },
+ "instance_828": {
+  "number_of_vehicles": 15,
+  "cost": 20.81114
+ },
+ "instance_829": {
+  "number_of_vehicles": 15,
+  "cost": 18.62589
+ },
+ "instance_830": {
+  "number_of_vehicles": 17,
+  "cost": 25.8414
+ },
+ "instance_831": {
+  "number_of_vehicles": 19,
+  "cost": 30.50367
+ },
+ "instance_832": {
+  "number_of_vehicles": 17,
+  "cost": 21.21907
+ },
+ "instance_833": {
+  "number_of_vehicles": 15,
+  "cost": 18.50461
+ },
+ "instance_834": {
+  "number_of_vehicles": 17,
+  "cost": 25.3398
+ },
+ "instance_835": {
+  "number_of_vehicles": 22,
+  "cost": 41.91622
+ },
+ "instance_836": {
+  "number_of_vehicles": 16,
+  "cost": 22.79527
+ },
+ "instance_837": {
+  "number_of_vehicles": 15,
+  "cost": 19.14314
+ },
+ "instance_838": {
+  "number_of_vehicles": 17,
+  "cost": 27.36711
+ },
+ "instance_839": {
+  "number_of_vehicles": 16,
+  "cost": 21.637
+ },
+ "instance_840": {
+  "number_of_vehicles": 15,
+  "cost": 21.98805
+ },
+ "instance_841": {
+  "number_of_vehicles": 17,
+  "cost": 27.34565
+ },
+ "instance_842": {
+  "number_of_vehicles": 15,
+  "cost": 19.58581
+ },
+ "instance_843": {
+  "number_of_vehicles": 17,
+  "cost": 27.06867
+ },
+ "instance_844": {
+  "number_of_vehicles": 15,
+  "cost": 21.0639
+ },
+ "instance_845": {
+  "number_of_vehicles": 15,
+  "cost": 18.45527
+ },
+ "instance_846": {
+  "number_of_vehicles": 15,
+  "cost": 19.74569
+ },
+ "instance_847": {
+  "number_of_vehicles": 16,
+  "cost": 23.05491
+ },
+ "instance_848": {
+  "number_of_vehicles": 18,
+  "cost": 28.23846
+ },
+ "instance_849": {
+  "number_of_vehicles": 17,
+  "cost": 23.86688
+ },
+ "instance_850": {
+  "number_of_vehicles": 17,
+  "cost": 26.26276
+ },
+ "instance_851": {
+  "number_of_vehicles": 15,
+  "cost": 18.67464
+ },
+ "instance_852": {
+  "number_of_vehicles": 16,
+  "cost": 23.24672
+ },
+ "instance_853": {
+  "number_of_vehicles": 15,
+  "cost": 21.44259
+ },
+ "instance_854": {
+  "number_of_vehicles": 17,
+  "cost": 23.7364
+ },
+ "instance_855": {
+  "number_of_vehicles": 17,
+  "cost": 24.4277
+ },
+ "instance_856": {
+  "number_of_vehicles": 15,
+  "cost": 20.32192
+ },
+ "instance_857": {
+  "number_of_vehicles": 15,
+  "cost": 19.57927
+ },
+ "instance_858": {
+  "number_of_vehicles": 15,
+  "cost": 21.55485
+ },
+ "instance_859": {
+  "number_of_vehicles": 20,
+  "cost": 35.20077
+ },
+ "instance_860": {
+  "number_of_vehicles": 18,
+  "cost": 31.0449
+ },
+ "instance_861": {
+  "number_of_vehicles": 16,
+  "cost": 20.58698
+ },
+ "instance_862": {
+  "number_of_vehicles": 16,
+  "cost": 21.05033
+ },
+ "instance_863": {
+  "number_of_vehicles": 18,
+  "cost": 29.26154
+ },
+ "instance_864": {
+  "number_of_vehicles": 16,
+  "cost": 22.69381
+ },
+ "instance_865": {
+  "number_of_vehicles": 21,
+  "cost": 40.33324
+ },
+ "instance_866": {
+  "number_of_vehicles": 19,
+  "cost": 31.57078
+ },
+ "instance_867": {
+  "number_of_vehicles": 16,
+  "cost": 22.18747
+ },
+ "instance_868": {
+  "number_of_vehicles": 18,
+  "cost": 29.2477
+ },
+ "instance_869": {
+  "number_of_vehicles": 16,
+  "cost": 20.29286
+ },
+ "instance_870": {
+  "number_of_vehicles": 14,
+  "cost": 18.72738
+ },
+ "instance_871": {
+  "number_of_vehicles": 17,
+  "cost": 27.24286
+ },
+ "instance_872": {
+  "number_of_vehicles": 17,
+  "cost": 24.90128
+ },
+ "instance_873": {
+  "number_of_vehicles": 17,
+  "cost": 24.60393
+ },
+ "instance_874": {
+  "number_of_vehicles": 17,
+  "cost": 26.30457
+ },
+ "instance_875": {
+  "number_of_vehicles": 15,
+  "cost": 19.33159
+ },
+ "instance_876": {
+  "number_of_vehicles": 16,
+  "cost": 19.02295
+ },
+ "instance_877": {
+  "number_of_vehicles": 16,
+  "cost": 23.02336
+ },
+ "instance_878": {
+  "number_of_vehicles": 17,
+  "cost": 28.55364
+ },
+ "instance_879": {
+  "number_of_vehicles": 15,
+  "cost": 19.58873
+ },
+ "instance_880": {
+  "number_of_vehicles": 17,
+  "cost": 26.55767
+ },
+ "instance_881": {
+  "number_of_vehicles": 14,
+  "cost": 17.41261
+ },
+ "instance_882": {
+  "number_of_vehicles": 15,
+  "cost": 17.9931
+ },
+ "instance_883": {
+  "number_of_vehicles": 17,
+  "cost": 24.59457
+ },
+ "instance_884": {
+  "number_of_vehicles": 15,
+  "cost": 20.43002
+ },
+ "instance_885": {
+  "number_of_vehicles": 17,
+  "cost": 23.29203
+ },
+ "instance_886": {
+  "number_of_vehicles": 16,
+  "cost": 20.94053
+ },
+ "instance_887": {
+  "number_of_vehicles": 17,
+  "cost": 26.05321
+ },
+ "instance_888": {
+  "number_of_vehicles": 16,
+  "cost": 21.27283
+ },
+ "instance_889": {
+  "number_of_vehicles": 15,
+  "cost": 18.79928
+ },
+ "instance_890": {
+  "number_of_vehicles": 19,
+  "cost": 30.53926
+ },
+ "instance_891": {
+  "number_of_vehicles": 18,
+  "cost": 26.88028
+ },
+ "instance_892": {
+  "number_of_vehicles": 17,
+  "cost": 24.494
+ },
+ "instance_893": {
+  "number_of_vehicles": 14,
+  "cost": 17.16644
+ },
+ "instance_894": {
+  "number_of_vehicles": 16,
+  "cost": 22.8377
+ },
+ "instance_895": {
+  "number_of_vehicles": 16,
+  "cost": 19.80776
+ },
+ "instance_896": {
+  "number_of_vehicles": 16,
+  "cost": 21.14569
+ },
+ "instance_897": {
+  "number_of_vehicles": 18,
+  "cost": 28.32294
+ },
+ "instance_898": {
+  "number_of_vehicles": 16,
+  "cost": 21.58612
+ },
+ "instance_899": {
+  "number_of_vehicles": 18,
+  "cost": 28.42895
+ },
+ "instance_900": {
+  "number_of_vehicles": 19,
+  "cost": 33.12717
+ },
+ "instance_901": {
+  "number_of_vehicles": 17,
+  "cost": 25.03988
+ },
+ "instance_902": {
+  "number_of_vehicles": 15,
+  "cost": 18.52438
+ },
+ "instance_903": {
+  "number_of_vehicles": 19,
+  "cost": 33.74
+ },
+ "instance_904": {
+  "number_of_vehicles": 16,
+  "cost": 21.82928
+ },
+ "instance_905": {
+  "number_of_vehicles": 16,
+  "cost": 22.19834
+ },
+ "instance_906": {
+  "number_of_vehicles": 14,
+  "cost": 17.59213
+ },
+ "instance_907": {
+  "number_of_vehicles": 16,
+  "cost": 21.38085
+ },
+ "instance_908": {
+  "number_of_vehicles": 17,
+  "cost": 26.63986
+ },
+ "instance_909": {
+  "number_of_vehicles": 19,
+  "cost": 31.49382
+ },
+ "instance_910": {
+  "number_of_vehicles": 17,
+  "cost": 25.56035
+ },
+ "instance_911": {
+  "number_of_vehicles": 18,
+  "cost": 27.53481
+ },
+ "instance_912": {
+  "number_of_vehicles": 17,
+  "cost": 25.80911
+ },
+ "instance_913": {
+  "number_of_vehicles": 15,
+  "cost": 16.49859
+ },
+ "instance_914": {
+  "number_of_vehicles": 15,
+  "cost": 19.60967
+ },
+ "instance_915": {
+  "number_of_vehicles": 17,
+  "cost": 25.56454
+ },
+ "instance_916": {
+  "number_of_vehicles": 17,
+  "cost": 25.70124
+ },
+ "instance_917": {
+  "number_of_vehicles": 17,
+  "cost": 24.98931
+ },
+ "instance_918": {
+  "number_of_vehicles": 15,
+  "cost": 17.57111
+ },
+ "instance_919": {
+  "number_of_vehicles": 22,
+  "cost": 40.75889
+ },
+ "instance_920": {
+  "number_of_vehicles": 16,
+  "cost": 25.03062
+ },
+ "instance_921": {
+  "number_of_vehicles": 17,
+  "cost": 28.0348
+ },
+ "instance_922": {
+  "number_of_vehicles": 18,
+  "cost": 31.24741
+ },
+ "instance_923": {
+  "number_of_vehicles": 15,
+  "cost": 18.86567
+ },
+ "instance_924": {
+  "number_of_vehicles": 21,
+  "cost": 37.82377
+ },
+ "instance_925": {
+  "number_of_vehicles": 20,
+  "cost": 35.23276
+ },
+ "instance_926": {
+  "number_of_vehicles": 19,
+  "cost": 32.93166
+ },
+ "instance_927": {
+  "number_of_vehicles": 17,
+  "cost": 26.72405
+ },
+ "instance_928": {
+  "number_of_vehicles": 16,
+  "cost": 22.98404
+ },
+ "instance_929": {
+  "number_of_vehicles": 16,
+  "cost": 23.45975
+ },
+ "instance_930": {
+  "number_of_vehicles": 16,
+  "cost": 17.78309
+ },
+ "instance_931": {
+  "number_of_vehicles": 16,
+  "cost": 21.62856
+ },
+ "instance_932": {
+  "number_of_vehicles": 16,
+  "cost": 22.52252
+ },
+ "instance_933": {
+  "number_of_vehicles": 15,
+  "cost": 19.08951
+ },
+ "instance_934": {
+  "number_of_vehicles": 15,
+  "cost": 18.51458
+ },
+ "instance_935": {
+  "number_of_vehicles": 16,
+  "cost": 20.37265
+ },
+ "instance_936": {
+  "number_of_vehicles": 17,
+  "cost": 24.38676
+ },
+ "instance_937": {
+  "number_of_vehicles": 16,
+  "cost": 21.29654
+ },
+ "instance_938": {
+  "number_of_vehicles": 15,
+  "cost": 18.89354
+ },
+ "instance_939": {
+  "number_of_vehicles": 16,
+  "cost": 23.91027
+ },
+ "instance_940": {
+  "number_of_vehicles": 17,
+  "cost": 27.54673
+ },
+ "instance_941": {
+  "number_of_vehicles": 16,
+  "cost": 24.65299
+ },
+ "instance_942": {
+  "number_of_vehicles": 18,
+  "cost": 26.60546
+ },
+ "instance_943": {
+  "number_of_vehicles": 16,
+  "cost": 21.83953
+ },
+ "instance_944": {
+  "number_of_vehicles": 17,
+  "cost": 26.06661
+ },
+ "instance_945": {
+  "number_of_vehicles": 15,
+  "cost": 19.28039
+ },
+ "instance_946": {
+  "number_of_vehicles": 17,
+  "cost": 24.64635
+ },
+ "instance_947": {
+  "number_of_vehicles": 18,
+  "cost": 27.85675
+ },
+ "instance_948": {
+  "number_of_vehicles": 16,
+  "cost": 24.66744
+ },
+ "instance_949": {
+  "number_of_vehicles": 18,
+  "cost": 29.01796
+ },
+ "instance_950": {
+  "number_of_vehicles": 18,
+  "cost": 31.58774
+ },
+ "instance_951": {
+  "number_of_vehicles": 15,
+  "cost": 18.8906
+ },
+ "instance_952": {
+  "number_of_vehicles": 15,
+  "cost": 19.24013
+ },
+ "instance_953": {
+  "number_of_vehicles": 17,
+  "cost": 26.30761
+ },
+ "instance_954": {
+  "number_of_vehicles": 17,
+  "cost": 26.45239
+ },
+ "instance_955": {
+  "number_of_vehicles": 15,
+  "cost": 17.11724
+ },
+ "instance_956": {
+  "number_of_vehicles": 17,
+  "cost": 25.26785
+ },
+ "instance_957": {
+  "number_of_vehicles": 16,
+  "cost": 23.55147
+ },
+ "instance_958": {
+  "number_of_vehicles": 15,
+  "cost": 19.53004
+ },
+ "instance_959": {
+  "number_of_vehicles": 15,
+  "cost": 21.13271
+ },
+ "instance_960": {
+  "number_of_vehicles": 17,
+  "cost": 24.10729
+ },
+ "instance_961": {
+  "number_of_vehicles": 15,
+  "cost": 18.33674
+ },
+ "instance_962": {
+  "number_of_vehicles": 15,
+  "cost": 21.57941
+ },
+ "instance_963": {
+  "number_of_vehicles": 15,
+  "cost": 21.68465
+ },
+ "instance_964": {
+  "number_of_vehicles": 16,
+  "cost": 22.85381
+ },
+ "instance_965": {
+  "number_of_vehicles": 19,
+  "cost": 33.80565
+ },
+ "instance_966": {
+  "number_of_vehicles": 17,
+  "cost": 24.83451
+ },
+ "instance_967": {
+  "number_of_vehicles": 17,
+  "cost": 27.34069
+ },
+ "instance_968": {
+  "number_of_vehicles": 15,
+  "cost": 18.5655
+ },
+ "instance_969": {
+  "number_of_vehicles": 17,
+  "cost": 24.27918
+ },
+ "instance_970": {
+  "number_of_vehicles": 16,
+  "cost": 25.36517
+ },
+ "instance_971": {
+  "number_of_vehicles": 17,
+  "cost": 24.33302
+ },
+ "instance_972": {
+  "number_of_vehicles": 15,
+  "cost": 19.59686
+ },
+ "instance_973": {
+  "number_of_vehicles": 21,
+  "cost": 35.86517
+ },
+ "instance_974": {
+  "number_of_vehicles": 16,
+  "cost": 23.19727
+ },
+ "instance_975": {
+  "number_of_vehicles": 16,
+  "cost": 22.22011
+ },
+ "instance_976": {
+  "number_of_vehicles": 16,
+  "cost": 19.49285
+ },
+ "instance_977": {
+  "number_of_vehicles": 16,
+  "cost": 21.90907
+ },
+ "instance_978": {
+  "number_of_vehicles": 17,
+  "cost": 25.34537
+ },
+ "instance_979": {
+  "number_of_vehicles": 16,
+  "cost": 21.50285
+ },
+ "instance_980": {
+  "number_of_vehicles": 19,
+  "cost": 32.67851
+ },
+ "instance_981": {
+  "number_of_vehicles": 16,
+  "cost": 22.76833
+ },
+ "instance_982": {
+  "number_of_vehicles": 17,
+  "cost": 27.40311
+ },
+ "instance_983": {
+  "number_of_vehicles": 15,
+  "cost": 18.85001
+ },
+ "instance_984": {
+  "number_of_vehicles": 15,
+  "cost": 17.94412
+ },
+ "instance_985": {
+  "number_of_vehicles": 18,
+  "cost": 30.51975
+ },
+ "instance_986": {
+  "number_of_vehicles": 18,
+  "cost": 29.85388
+ },
+ "instance_987": {
+  "number_of_vehicles": 18,
+  "cost": 29.52182
+ },
+ "instance_988": {
+  "number_of_vehicles": 16,
+  "cost": 22.64514
+ },
+ "instance_989": {
+  "number_of_vehicles": 16,
+  "cost": 22.94301
+ },
+ "instance_990": {
+  "number_of_vehicles": 17,
+  "cost": 27.06316
+ },
+ "instance_991": {
+  "number_of_vehicles": 15,
+  "cost": 18.45452
+ },
+ "instance_992": {
+  "number_of_vehicles": 16,
+  "cost": 24.27168
+ },
+ "instance_993": {
+  "number_of_vehicles": 16,
+  "cost": 23.43582
+ },
+ "instance_994": {
+  "number_of_vehicles": 16,
+  "cost": 17.78761
+ },
+ "instance_995": {
+  "number_of_vehicles": 18,
+  "cost": 29.05511
+ },
+ "instance_996": {
+  "number_of_vehicles": 15,
+  "cost": 20.35469
+ },
+ "instance_997": {
+  "number_of_vehicles": 17,
+  "cost": 21.87079
+ },
+ "instance_998": {
+  "number_of_vehicles": 16,
+  "cost": 24.70391
+ },
+ "instance_999": {
+  "number_of_vehicles": 17,
+  "cost": 23.07001
+ }
+}
