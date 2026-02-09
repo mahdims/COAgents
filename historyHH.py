@@ -122,7 +122,7 @@ def embed_sample(solution : Solution, problem_type : str) -> Sample :
 # This routine removes side branches in the PSG
 def purge_sample(sample : Sample) -> Sample :
     # Extract the path
-    path_mask = np.zeros(shape=(sample.n[0],), dtype=np.bool)
+    path_mask = np.zeros(shape=(sample.n[0],), dtype=bool)
     path = np.empty(shape=(sample.n[0],), dtype=sample.e.dtype)
     path_length = 0
     parents = np.argmin(sample.u[:, 0], keepdims=True)

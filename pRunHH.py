@@ -33,7 +33,7 @@ def initialize_dataserver_locks(ncpus : int) -> typing.Tuple[ typing.List[ mp.Lo
     return (server_locks, client_locks)
 
 # Creates a shared memory scores window
-def shmem_create(name : str, shape : np.shape, dtype : np.dtype, prefix : str = "pRunHH_") -> typing.Tuple[ shared_memory, np.ndarray ] :
+def shmem_create(name : str, shape : np.shape, dtype : np.dtype, prefix : str = "pRunHH_") -> typing.Tuple[ shared_memory.SharedMemory, np.ndarray ] :
     shm_name = prefix + name
     try:
         # Try to create the shared memory block
@@ -47,12 +47,12 @@ def shmem_create(name : str, shape : np.shape, dtype : np.dtype, prefix : str = 
     shared = np.ndarray(shape=shape, dtype=dtype, buffer=shmem.buf)
     return (shmem, shared)
 # Connect to an existent shared memory segment
-def shmem_connect(name : str, shape : np.shape, dtype : np.dtype) -> typing.Tuple[ shared_memory, np.ndarray ] :
+def shmem_connect(name : str, shape : np.shape, dtype : np.dtype) -> typing.Tuple[ shared_memory.SharedMemory, np.ndarray ] :
     shmem = shared_memory.SharedMemory(name=name, create=False)
     shared = np.ndarray(shape=shape, dtype=dtype, buffer=shmem.buf)
     return (shmem, shared)
 # Deletes shared memory
-def shmem_del(shmem: shared_memory) -> None:
+def shmem_del(shmem: shared_memory.SharedMemory) -> None:
     shmem.close()
     shmem.unlink()
 

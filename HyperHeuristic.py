@@ -383,7 +383,7 @@ class HyperHeuristic(Algorithm):
         else                        : # Hellinger selector
             # Strategy 2. Jump *into* the most diverse proposal
             # Stage 2.1. Create matrices for all discovered minimims
-            reference_solutions = np.zeros(shape=(len(self.history), self.history.NUMBER_NODES, self.history.NUMBER_NODES), dtype=np.bool)
+            reference_solutions = np.zeros(shape=(len(self.history), self.history.NUMBER_NODES, self.history.NUMBER_NODES), dtype=bool)
             for i in range(len(self.history)) :
                 t = self.history[i].t[np.argmin(self.history.get_cost(i)), :]
                 # Mask where at least one element in the pair is not the depot

@@ -43,7 +43,7 @@ def partial_beam_search_vrp(routes_mutable : np.ndarray, beam_width : int,
                             t : np.ndarray, a : np.ndarray) -> np.ndarray :
     # Create the constrained mask.
     # The mutations will involve beam search withing only routes_mutable
-    routes_boundary = np.concatenate((np.zeros(shape=(1,), dtype=np.bool), ((t[:-1] == depot) & (t[1:] == depot)),), dtype=np.bool)
+    routes_boundary = np.concatenate((np.zeros(shape=(1,), dtype=bool), ((t[:-1] == depot) & (t[1:] == depot)),), dtype=bool)
     routes_size = np.max(np.where(t != depot)[0]) + 2
     routes_mutable_mask = np.isin(np.cumsum(routes_boundary, dtype=t.dtype), routes_mutable)[: routes_size]
     routes_immutable_size = routes_size - routes_mutable_mask.sum()
@@ -166,14 +166,14 @@ class constrainedBeamHH(object) :
         #  Select routes to mutate using mutation probability density
         # Stage I.1. Sum probability of edge mutations into probability of DAGs mutations
         t = t[: 0 if not (t != self.depot).sum() else 2 + np.arange(t.size, dtype=t.dtype)[(t != self.depot)].max()]
-        mask_dag = np.concatenate(( np.zeros(shape=(1,), dtype=np.bool), (t[:-1] == self.depot) & (t[1:] == self.depot) ), axis=0)
+        mask_dag = np.concatenate(( np.zeros(shape=(1,), dtype=bool), (t[:-1] == self.depot) & (t[1:] == self.depot) ), axis=0)
         dag_indx = np.empty(shape=(self.nNodes,), dtype=t.dtype)
         dag_indx[t] = np.cumsum(mask_dag, dtype=t.dtype)[:] ; dag_indx[self.depot] = mask_dag.sum()
         exclude_depot = np.arange(self.nNodes, dtype=t.dtype)[(np.arange(self.nNodes, dtype=t.dtype) != self.depot)]
         pdag = np.zeros(shape=(1 + dag_indx.max(), 1 + dag_indx.max(),), dtype=np.float64)
         # Convert probability of existance into probability of flip
         # P_flip = A_{ij} * (1. - P_{ij}) + (1 - A_{ij}) * P_{ij} = | A_{ij} - P_{ij} |
-        a = np.zeros(shape=pa.shape, dtype=np.bool) ; a[t[:-1], t[1:]] = True
+        a = np.zeros(shape=pa.shape, dtype=bool) ; a[t[:-1], t[1:]] = True
         np.add.at(pdag, (np.repeat(dag_indx[np.newaxis, exclude_depot], self.nNodes-1, axis=0),
                          np.repeat(dag_indx[exclude_depot, np.newaxis], self.nNodes-1, axis=1)),
                          np.abs(a[exclude_depot, :][:, exclude_depot].astype(pa.dtype) - pa[exclude_depot, :][:, exclude_depot]) )
