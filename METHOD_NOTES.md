@@ -366,9 +366,11 @@ a. `HistoryHH.update` (`historyHH.py:273`): `del self[np.argmax(self.get_cost())
    basin, regardless of cost. The comment says it preserves the best local minimum; in
    practice it preserves basin 0 and the newest basins.
 
-b. `RunHH.runHH` returns `(bestCost, gap, time)`, but `pRunHH.main_worker` unpacks the second
-   value as `algNVehicles`. The CSV column `algNVehicles` therefore contains the relative gap,
-   and the master recomputes `gap` itself from `algBestCost`.
+b. *(fixed in this branch)* `RunHH.runHH` used to return `(bestCost, gap, time)` while
+   `pRunHH.main_worker` unpacked the second value as `algNVehicles`, so the CSV column held the
+   relative gap. It now returns the number of routes of the best solution; the master still
+   recomputes `gap` itself from `algBestCost`. `RunHH.py` also gained CLI flags (`-d -i -t -g`)
+   with defaults on a bundled dataset, replacing the hard-coded `MVMoE_data_5` path.
 
 c. `intialPhase` records the ALNSLocal trajectory as a **chain** (`nId-1 → nId`), ignoring
    the actual parent `iterStartSol` stored in `ALNS.history`. The first PSG is thus a path

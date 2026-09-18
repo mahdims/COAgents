@@ -61,7 +61,7 @@ Unlike end-to-end neural solvers, COAgents cleanly separates **problem-agnostic 
 ## Highlights
 
 - **Search history as the state.** Agents condition on the whole PSG: objective values, parent–child gaps, offspring statistics, which heuristic produced which node, and random-walk positional encodings of the graph itself. Existing learn-to-search methods decide from the current solution alone.
-- **Learned restarts, not random perturbations.** The Jump Agent predicts an *N × N* stochastic adjacency matrix from the search history and samples a complete new solution in one shot. Removing it nearly doubles the VRPTW gap (3.7 % → 7.8 %).
+- **Learned restarts, not random perturbations.** The Jump Agent predicts an *N × N* edge-probability matrix from the search history and decodes a complete new solution in one shot. Removing it nearly doubles the VRPTW gap (3.7 % → 7.8 %).
 - **One weight-shared backbone.** All agents use the same CoreBlock stack: Gated Graph Convolution over PSG edges → PSG-level Transformer → problem-specific E2E layer (dual-aspect Transformer from DACT). Only the E2E layer needs to change for a new problem.
 - **Strong classical operators.** 19 low-level heuristics: 2-opt, Or-opt, cross-exchange, path relocation, 2-opt\*, plus PyVRP's Exchange(i, j), SwapTails, SwapRoutes and SWAP\*.
 - **Beats ALNS with fewer operators.** Against an ALNS that has all 19 moves *plus* 27 destroy–repair pairs, COAgents is better at every checkpoint of a 1 000-iteration run.
@@ -119,7 +119,7 @@ p_i,m = σ(W [z_i ⌢ e_m])          # P(heuristic m is the best next move from 
 
 At inference the implementation masks nodes outside the active basin, uphill children and already-tried (node, move) pairs, and takes the argmax of `p_i · p_i,m` (`HyperHeuristic.predictMove`).
 
-**Jump decoder.** For a selected solution, `Y = V W_Q W_Kᵀ Vᵀ / √d_k` with the diagonal masked, followed by a row-wise softmax, gives a stochastic adjacency matrix *P ∈ [0, 1]<sup>N×N</sup>*. The implementation offers three ways to turn *P* into a solution:
+**Jump decoder.** For a selected solution, a dual-aspect compatibility layer scores every ordered customer pair, `Y = V W_Q W_Kᵀ Vᵀ / √d_k`, giving an *N × N* **edge heat-map** *P ∈ [0, 1]<sup>N×N</sup>*. The paper presents *P* as a row-wise softmax with the diagonal masked; the **released checkpoints** instead apply an element-wise sigmoid to the logits (`E2E_model_inference`), so each entry is an independent probability that arc *i → j* belongs to a good solution, rows are not normalised, and the diagonal is not masked. This matches the `BCEWithLogitsLoss` used to train the Jump Agent. All three decoders below apply feasibility masks and renormalise over the remaining arcs before choosing, so the two views lead to the same decisions in practice:
 
 | Decoder | Code | Behaviour |
 |---|---|---|
@@ -218,10 +218,13 @@ python show_stats.py -l cvrp100.csv
 **Single instance with a verbose trace**
 
 ```bash
-python RunHH.py     # instance, problem type and GPU are set at the bottom of the file
+python RunHH.py -d ./dataset/MVMoE_data/ -i instance_0 -t vrptw -g 0
+python RunHH.py -d ./dataset/NeuOpt_100/ -i instance_0 -t cvrp  -g 0
 ```
 
-Each CSV row holds `name, bestNVehicles, bestCost, algBestCost, algNVehicles, gap, time`, where `gap = (algBestCost − bestCost) / bestCost` against the best-known solution in `BestObj.json`. `show_stats.py` prints the mean gap, its standard deviation and the mean objective.
+The best-known cost is read from the dataset's `BestObj.json` and used for the gap print-out and the early-stopping rule.
+
+Each CSV row holds `name, bestNVehicles, bestCost, algBestCost, algNVehicles, gap, time`: the best-known vehicle count and cost from `BestObj.json`, the cost and number of routes found by COAgents, `gap = (algBestCost − bestCost) / bestCost`, and wall-clock seconds. `show_stats.py` prints the mean gap, its standard deviation and the mean objective.
 
 <details>
 <summary><b>Runtime settings</b></summary>
