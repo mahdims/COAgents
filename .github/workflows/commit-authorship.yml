@@ -1,0 +1,59 @@
+name: Commit authorship
+
+# Rejects commits that list an AI assistant as author, committer or co-author.
+# Runs on every pull request over all commits in the PR, and on pushes to main.
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  check-authors:
+    name: No AI-assistant authors
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Inspect commit authors, committers and trailers
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            RANGE="${{ github.event.pull_request.base.sha }}..${{ github.event.pull_request.head.sha }}"
+          else
+            RANGE="${{ github.event.before }}..${{ github.sha }}"
+          fi
+          echo "Checking commits in range: $RANGE"
+
+          # Case-insensitive patterns that identify an AI assistant identity.
+          PATTERN='claude|anthropic|copilot|codex|chatgpt|openai|noreply@anthropic\.com'
+
+          fail=0
+          for sha in $(git rev-list "$RANGE"); do
+            author=$(git show -s --format='%an <%ae>' "$sha")
+            committer=$(git show -s --format='%cn <%ce>' "$sha")
+            trailers=$(git show -s --format='%B' "$sha" | grep -iE '^(co-authored-by|signed-off-by|.*-session):' || true)
+
+            if echo "$author" | grep -qiE "$PATTERN"; then
+              echo "::error::Commit $sha has an AI-assistant author: $author"; fail=1
+            fi
+            if echo "$committer" | grep -qiE "$PATTERN"; then
+              echo "::error::Commit $sha has an AI-assistant committer: $committer"; fail=1
+            fi
+            if echo "$trailers" | grep -qiE "$PATTERN"; then
+              echo "::error::Commit $sha carries an AI-assistant trailer:"; echo "$trailers"; fail=1
+            fi
+          done
+
+          if [ "$fail" -ne 0 ]; then
+            echo "Rewrite the offending commits (git rebase -i / git commit --amend --author) and force-push."
+            exit 1
+          fi
+          echo "All commits have human authors and no AI-assistant trailers."
