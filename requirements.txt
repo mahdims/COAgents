@@ -1,0 +1,12 @@
+# Core
+torch==2.4.*
+numpy>=1.26
+networkx>=3.2
+pandas>=2.0
+h5py>=3.10
+
+# Local-search operators (Exchange(i,j), SWAP*, SwapTails, ...)
+pyvrp>=0.9
+
+# Imported by model/layerGraphEmbedding.py (positional encodings)
+torch_geometric>=2.5
